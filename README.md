@@ -340,7 +340,7 @@ arXiv preprint, 3 Jun 2024<br>
 arXiv preprint, 18 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.09713)] [[Project](https://dynamic3dgaussians.github.io/)] [[Github](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 
-**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
+:fire:**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
 *Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
 arXiv preprint, 22 Sep 2023<br>
 [[arXiv](https://arxiv.org/abs/2309.13101)]
@@ -375,7 +375,7 @@ CVPR 2024, 9 Dec 2023<br>
 arXiv preprint, 18 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.11458)] [[Project](https://lynl7130.github.io/gaufre/index.html)]
 
-**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**<br>
+:fire:**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**<br>
 *Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi*<br>
 CVPR 2024, 4 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.14937)] [[Project](https://yihua7.github.io/SC-GS-web/)] [[Code](https://github.com/yihua7/SC-GS)] [[Video](https://www.youtube.com/watch?v=CYQYX_0xi5E&feature=youtu.be)]
@@ -394,7 +394,6 @@ arXiv preprint, 5 Feb 2024<br>
 *Lin Gao, Jie Yang, Bo-Tao Zhang, Jia-Mu Sun, Yu-Jie Yuan, Hongbo Fu, Yu-Kun Lai*<br>
 arXiv preprint, 7 Feb 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.04796)]
-
 
 **GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation**<br>
 *Quankai Gao, Qiangeng Xu, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann*<br>
@@ -578,7 +577,7 @@ arXiv preprint, 6 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.03659)]
 
 
-### 3DGS-NeRF Transfer
+## 3DGS-NeRF Transfer
 
 **NeRFs to Gaussian Splats, and Back**<br>
 *Siming He, Zach Osman, Pratik Chaudhari*<br>
