@@ -609,7 +609,7 @@ arXiv preprint, 6 May 2024<br>
 **NeRFs to Gaussian Splats, and Back**<br>
 *Siming He, Zach Osman, Pratik Chaudhari*<br>
 arXiv preprint, 15 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.09717)]
+[[arXiv](https://arxiv.org/abs/2405.09717)] [[Code](https://github.com/grasp-lyrl/NeRFtoGSandBack)]
 
 ## 3DGS Generalization
 
