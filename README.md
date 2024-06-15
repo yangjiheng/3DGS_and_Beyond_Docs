@@ -330,6 +330,11 @@ arXiv preprint, 11 May 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.20283)]
 
+**Tetrahedron Splatting for 3D Generation**<br>
+*Chun Gu, Zeyu Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
+arXiv preprint, 3 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.01579)] [[Code](https://github.com/fudan-zvg/tet-splatting)]
+
 **RaDe-GS: Rasterizing Depth in Gaussian Splatting**<br>
 *Baowen Zhang, Chuan Fang, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping Tan*<br>
 arXiv preprint, 3 Jun 2024<br>
@@ -892,6 +897,11 @@ arXiv preprint, 28 May 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.19957)] [[Project](https://miaoqiaowei.github.io/PLA4D/)]
 
+**Adversarial Generation of Hierarchical Gaussians for 3D Generative Model**<br>
+*Sangeek Hyun, Jae-Pil Heo*<br>
+arXiv preprint, 5 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.02968)] [[Project](https://hse1032.github.io/gsgan)]
+
 **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**<br>
 *Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan*<br>
 arXiv preprint, 6 Jun 2024<br>
@@ -933,16 +943,6 @@ arXiv preprint, 27 May 2024<br>
 *Yufei Wang, Zhihao Li, Lanqing Guo, Wenhan Yang, Alex C. Kot, Bihan Wen*<br>
 arXiv preprint, 31 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.20721)]
-
-**Tetrahedron Splatting for 3D Generation**<br>
-*Chun Gu, Zeyu Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
-arXiv preprint, 3 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.01579)] [[Code](https://github.com/fudan-zvg/tet-splatting)]
-
-**Adversarial Generation of Hierarchical Gaussians for 3D Generative Model**<br>
-*Sangeek Hyun, Jae-Pil Heo*<br>
-arXiv preprint, 5 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.02968)] [[Project](https://hse1032.github.io/gsgan)]
 
 **Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling**<br>
 *Fengyi Zhang, Tianjun Zhang, Lin Zhang, Helen Huang, Yadan Luo*<br>
