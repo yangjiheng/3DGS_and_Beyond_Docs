@@ -256,6 +256,26 @@ arXiv preprint, 4 Jun 2024<br>
 arXiv preprint, 6 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.04251)] [[Code](https://github.com/Surrey-UP-Lab/GS-LPM)]
 
+**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**<br>
+*Bingling Li, Shengyi Chen, Luchao Wang, Kaimin He, Sijie Yan, Yuanjun Xiong*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11836)]
+
+**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**<br>
+*Junha Hyung, Susung Hong, Sungwon Hwang, Jaeseong Lee, Jaegul Choo, Jin-Hwa Kim*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11672)] [[Project](https://junhahyung.github.io/erankgs.github.io/)] 
+
+**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**<br>
+*Alex Hanson, Allen Tu, Vasu Singla, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10219)]
+
+**Unified Gaussian Primitives for Scene Representation and Rendering**<br>
+*Yang Zhou, Songyin Wu, Ling-Qi Yan*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.09733)]
+
 ## 3DGS Acceleration
 
 **EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**<br>
@@ -354,6 +374,11 @@ arXiv prepreint, 10 Jun 2024<br>
 *Hanlin Chen, Fangyin Wei, Chen Li, Tianxin Huang, Yunsong Wang, Gim Hee Lee*<br>
 arXiv preprint, 9 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.05774)]
+
+**Projecting Radiance Fields to Mesh Surfaces**<br>
+*Adrian Xuan Wei Lim, Lynnette Hui Xian Ng, Nicholas Kyger, Tomo Michigami, Faraz Baghernezhad*<br>
+SIGGRAPH Poster 2024, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11570)]
 
 ## 3DGS Based Dynamic Scene
 
@@ -731,6 +756,16 @@ arXiv preprint, 28 May 2024<br>
 arXiv preprint, 4 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.02407)] [[Project](https://yuzewang1998.github.io/we-gs.github.io/)]
 
+**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**<br>
+*Bernhard Kerbl, Andréas Meuleman, Georgios Kopanas, Michael Wimmer, Alexandre Lanvin, George Drettakis*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12080)] [[Project](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)]
+
+**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**<br>
+*Jiacong Xu, Yiqun Mei, Vishal M. Patel*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10373)]
+
 ## 3DGS Autonomous Driving
 
 **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**<br>
@@ -916,6 +951,16 @@ arXiv preprint, 10 Jun 2024<br>
 *Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang*<br>
 arXiv preprint, 10 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.06367)]
+
+**L4GM: Large 4D Gaussian Reconstruction Model**<br>
+*Jiawei Ren, Kevin Xie, Ashkan Mirzaei, Hanxue Liang, Xiaohui Zeng, Karsten Kreis, Ziwei Liu, Antonio Torralba, Sanja Fidler, Seung Wook Kim, Huan Ling*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10324)] [[Project](https://research.nvidia.com/labs/toronto-ai/l4gm/)]
+
+**GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion**<br>
+*Trapoom Ukarapol, Kevin Pruvost*<br>
+arXiv preprint,  14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.09850)] [[Code](https://github.com/trapoom555/GradeADreamer)]
 
 ## 3DGS Model Compactness Optimization
 
@@ -1215,6 +1260,11 @@ arXiv preprint, 13 Jun 2024<br>
 *Yuxuan Xue, Xianghui Xie, Riccardo Marin, Gerard Pons-Moll*<br>
 arXiv preprint, 12 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.08475)] [[Project](https://yuxuan-xue.com/human-3diffusion/)] [[Code](https://github.com/YuxuanSnow/Human3Diffusion/)]
+
+**HumanSplat: Generalizable Single-Image HumanGaussianSplattingwith Structure Priors**<br>
+*Panwang Pan, Zhuo Su, Chenguo Lin, Zhen Fan, Yongjie Zhang, Zeming Li, Tingting Shen, Yadong Mu, Yebin Liu*<br>
+arXiv preprint, 18 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12459)] [[Project](https://humansplat.github.io/)]
 
 ## 3DGS Scene Editing and Animation
 
@@ -1623,6 +1673,11 @@ arXiv preprint, 9 Jun 2024<br>
 *Xiang Feng, Yongbo He, Yubo Wang, Yan Yang, Zhenzhong Kuang, Yu Jun, Jianping Fan, Jiajun ding*<br>
 ACM MM 2024, 16 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.10318)]
+
+**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**<br>
+*Xiqian Yu, Hanxin Zhu, Tianyu He, Zhibo Chen*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10111)] [[Project](https://chchnii.github.io/GaussianSR/)]
 
 ## 3DGS for Point Cloud
 
