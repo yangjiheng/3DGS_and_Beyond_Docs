@@ -435,7 +435,7 @@ CVPR 2024, 28 Dec 2023<br>
 **4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**<br>
 *Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen*<br>
 arXiv preprint, 5 Feb 2024<br>
-[[arXiv](https://arxiv.org/abs/2402.03307)]
+[[arXiv](https://arxiv.org/abs/2402.03307)] [[Code](https://github.com/weify627/4D-Rotor-Gaussians?tab=readme-ov-file)]
 
 **Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**<br>
 *Lin Gao, Jie Yang, Bo-Tao Zhang, Jia-Mu Sun, Yu-Jie Yuan, Hongbo Fu, Yu-Kun Lai*<br>
