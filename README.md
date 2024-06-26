@@ -29,6 +29,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Original Paper](#3dgs-original-paper)
   - [3DGS Surveys](#3dgs-surveys)
   - [3DGS Frameworks](#3dgs-frameworks)
+  - [3DGS Profiling](#3dgs-profiling)
   - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
   - [3DGS Acceleration](#3dgs-acceleration)
   - [3DGS Geometry Reconstruction](#3dgs-geometry-reconstruction)
@@ -103,6 +104,14 @@ arXiv preprint, 6 May 2024<br>
 *Chongjie Ye, Yinyu Nie, Jiahao Chang, Yuantao Chen, Yihao Zhi, Xiaoguang Han*<br>
 arXiv preprint, 28 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.19632)] [[Code](https://github.com/GAP-LAB-CUHK-SZ/gaustudio)]
+
+## 3DGS Profiling
+
+**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**<br>
+*Jonas Kulhanek, Torsten Sattler*<br>
+arXiv preprint, 25 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.17345)] [[Project](https://jkulhanek.com/nerfbaselines/)]
+
 
 ## 3DGS Quality Enhancement
 
@@ -275,6 +284,11 @@ arXiv preprint, 14 Jun 2024<br>
 *Yang Zhou, Songyin Wu, Ling-Qi Yan*<br>
 arXiv preprint, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.09733)]
+
+**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**<br>
+*Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
+arXiv preprint, 21 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.15643)]
 
 ## 3DGS Acceleration
 
@@ -962,6 +976,11 @@ arXiv preprint, 14 Jun 2024<br>
 arXiv preprint,  14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.09850)] [[Code](https://github.com/trapoom555/GradeADreamer)]
 
+**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**<br>
+*Yufei Liu, Junshu Tang, Chu Zheng, Shijie Zhang, Jinkun Hao, Junwei Zhu, Dongjin Huang*<br>
+arXiv preprint, 24 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.16815)] [[Project](https://ggxxii.github.io/clothedreamer/)]
+
 ## 3DGS Model Compactness Optimization
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**<br>
@@ -993,6 +1012,11 @@ arXiv preprint, 31 May 2024<br>
 *Fengyi Zhang, Tianjun Zhang, Lin Zhang, Helen Huang, Yadan Luo*<br>
 arXiv preprint, 13 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.08759)]
+
+:fire:**Reducing the Memory Footprint of 3D Gaussian Splatting**<br>
+*Panagiotis Papantonakis, Georgios Kopanas, Bernhard Kerbl, Alexandre Lanvin, George Drettakis*<br>
+arXiv preprint, 24 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.17074)] [[Project](https://repo-sam.inria.fr/fungraph/reduced_3dgs/)] 
 
 ## 3DGS Streaming
 
@@ -1027,6 +1051,11 @@ arXiv preprint, 7 Mar 2024<br>
 *Jiaxu Wang, Ziyi Zhang, Qiang Zhang, Jia Li, Jingkai Sun, Mingyuan Sun, Junhao He, Renjing Xu*<br>
 arXiv preprint, 4 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.02370)]
+
+**Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks**<br>
+*Alex Quach, Makram Chahine, Alexander Amini, Ramin Hasani, Daniela Rus*<br>
+arXiv preprint, 21 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.15149)]
 
 ## 3DGS Avatar Generation
 
@@ -1570,6 +1599,11 @@ arXiv preprint, 26 May 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.20031)]
 
+**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**<br>
+*Xiaohao Xu, Tianyi Zhang, Sibo Wang, Xiang Li, Yongqi Chen, Ye Li, Bhiksha Raj, Matthew Johnson-Roberson, Xiaonan Huang*<br>
+arXiv preprint, 24 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.16850)]
+
 ## 3DGS Based Inverse Rendering
 
 **GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**<br>
@@ -1710,6 +1744,11 @@ arXiv preprint, 7 Apr 2024<br>
 arXiv preprint, 5 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.02972)]
 
+**E2GS: Event Enhanced Gaussian Splatting**<br>
+*Hiroyuki Deguchi, Mana Masuda, Takuya Nakabayashi, Hideo Saito*<br>
+arXiv preprint, 21 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.14978)] 
+
 ## 3DGS Applications
 
 ### 3DGS Application in Animal Reconstruction
@@ -1780,6 +1819,11 @@ arXiv preprint, 4 Jun 2024<br>
 *Jihe Li, Fabian Zhang, Xia Li, Tianhao Zhang, Ye Zhang, Joachim Buhmann*<br>
 arXiv preprint, 5 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.03394)]
+
+**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**<br>
+*Hengyu Liu, Yifan Liu, Chenxin Li, Wuyang Li, Yixuan Yuan*<br>
+MICCAI 2024, 23 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.16073)] [[Project](https://lgs-endo.github.io/)] [[Code](https://github.com/CUHK-AIM-Group/LGS)]
 
 ## 3DGS Artifact Detection
 
