@@ -25,16 +25,19 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
 
 <summary>Table of Content</summary>
 
-- [3DGS and Beyond Docs](#3dgs-and-beyond-docs)
+- [`3DGS and Beyond Docs`](#3dgs-and-beyond-docs)
+  - [How to join us](#how-to-join-us)
+  - [NeRF Progresses](#nerf-progresses)
   - [3DGS Original Paper](#3dgs-original-paper)
   - [3DGS Surveys](#3dgs-surveys)
   - [3DGS Frameworks](#3dgs-frameworks)
   - [3DGS Profiling](#3dgs-profiling)
+  - [3DGS Distributed Training](#3dgs-distributed-training)
   - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
   - [3DGS Acceleration](#3dgs-acceleration)
   - [3DGS Geometry Reconstruction](#3dgs-geometry-reconstruction)
   - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
-  - [3DGS Depth](#3dgs--depth)
+  - [3DGS + Depth](#3dgs--depth)
   - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
   - [3DGS Weak Camera Pose](#3dgs-weak-camera-pose)
   - [3DGS-NeRF Transfer](#3dgs-nerf-transfer)
@@ -49,9 +52,12 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Avatar Generation](#3dgs-avatar-generation)
     - [3DGS Avatar Generation Survey](#3dgs-avatar-generation-survey)
     - [3DGS Avatar Generation Progresses](#3dgs-avatar-generation-progresses)
+  - [3DGS Clothes/Garment](#3dgs-clothesgarment)
   - [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
+  - [3DGS Stylization](#3dgs-stylization)
   - [3DGS for Computer Graphics](#3dgs-for-computer-graphics)
   - [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
+  - [3DGS + Specular](#3dgs--specular)
   - [3DGS Based SLAM](#3dgs-based-slam)
   - [3DGS Based Inverse Rendering](#3dgs-based-inverse-rendering)
   - [3DGS Imaging Tasks](#3dgs-imaging-tasks)
@@ -63,10 +69,12 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Applications](#3dgs-applications)
     - [3DGS Application in Animal Reconstruction](#3dgs-application-in-animal-reconstruction)
     - [3DGS Application in Medical Imaging](#3dgs-application-in-medical-imaging)
-    - [3DGS Artifact Detection](#3dgs-artifact-detection)
-    - [3DGS Application Satellite Images](#3dgs-applications-in-satellite-images)
-    - [3DGS Network Applications](#3dgs-network-applications)
-    - [3DGS for Acoustics](#3dgs-for-acoustic)
+  - [3DGS Artifact Detection](#3dgs-artifact-detection)
+  - [3DGS Applications in Satellite Images](#3dgs-applications-in-satellite-images)
+  - [3DGS Network Applications](#3dgs-network-applications)
+  - [3DGS for Acoustic](#3dgs-for-acoustic)
+  - [Contributors](#contributors)
+  - [License](#license)
 
 
 ## 3DGS Original Paper
@@ -112,6 +120,12 @@ arXiv preprint, 28 Mar 2024<br>
 arXiv preprint, 25 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.17345)] [[Project](https://jkulhanek.com/nerfbaselines/)]
 
+## 3DGS Distributed Training
+
+**On Scaling Up 3D Gaussian Splatting Training**
+*Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18533)] [[Project](https://daohanlu.github.io/scaling-up-3dgs)] [[Code](https://github.com/nyu-systems/Grendel-GS)]
 
 ## 3DGS Quality Enhancement
 
@@ -289,6 +303,16 @@ arXiv preprint, 14 Jun 2024<br>
 *Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
 arXiv preprint, 21 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15643)]
+
+**SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting**<br>
+*Sara Sabour, Lily Goli, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi*<br>
+arXiv preprint, 28 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.20055)]
+
+**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**<br>
+*Jiaze Li, Zhengyu Wen, Luo Zhang, Jiangbei Hu, Fei Hou, Zhebin Zhang, Ying He*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18199)]
 
 ## 3DGS Acceleration
 
@@ -530,6 +554,11 @@ arXiv preprint, 29 May 2024<br>
 *Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao*<br>
 SIGGRAPH 2024, 13 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.09395)] [[Project](https://ambientgaussian.github.io/)]
+
+**Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**<br>
+*Colton Stearns, Adam Harley, Mikaela Uy, Florian Dubost, Federico Tombari, Gordon Wetzstein, Leonidas Guibas*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18717)]
 
 ## 3DGS + Depth
 
@@ -802,6 +831,11 @@ arXiv preprint, 3 Apr, 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.20323)] [[Code](https://github.com/nnanhuang/S3Gaussian/)]
 
+**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**<br>
+*Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18198)] [[Project](https://3d-aigc.github.io/VDG/)]
+
 ## 3DGS Based AIGC
 
 **GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**<br>
@@ -981,6 +1015,11 @@ arXiv preprint,  14 Jun 2024<br>
 arXiv preprint, 24 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.16815)] [[Project](https://ggxxii.github.io/clothedreamer/)]
 
+**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**<br>
+*Taoran Yi, Jiemin Fang, Zanwei Zhou, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Xinggang Wang, Qi Tian*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18462)] [[Project](https://taoranyi.com/gaussiandreamerpro/)] [[Code](https://github.com/hustvl/GaussianDreamerPro)]
+
 ## 3DGS Model Compactness Optimization
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**<br>
@@ -1017,6 +1056,16 @@ arXiv preprint, 13 Jun 2024<br>
 *Panagiotis Papantonakis, Georgios Kopanas, Bernhard Kerbl, Alexandre Lanvin, George Drettakis*<br>
 arXiv preprint, 24 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.17074)] [[Project](https://repo-sam.inria.fr/fungraph/reduced_3dgs/)] 
+
+**Lightweight Predictive 3D Gaussian Splats**<br>
+*Junli Cao, Vidit Goel, Chaoyang Wang, Anil Kag, Ju Hu, Sergei Korolev, Chenfanfu Jiang, Sergey Tulyakov, Jian Ren*<br>
+arXiv preprint, 27 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.19434)] [[Project](https://plumpuddings.github.io/LPGS/)]
+
+**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**<br>
+*Muhammad Salman Ali, Maryam Qamar, Sung-Ho Bae, Enzo Tartaglione*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18214)]
 
 ## 3DGS Streaming
 
@@ -1258,6 +1307,11 @@ arXiv preprint, 21 May 2024<br>
 arXiv preprint, 20 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.12069)] [[Project](https://gaussian-head-shoulders.netlify.app)]
 
+**FAGhead: Fully Animate Gaussian Head from Monocular Videos**<br>
+*Yixin Xuan, Xinyang Li, Gongxin Yao, Shiwei Zhou, Donghui Sun, Xiaoxin Chen, Yu Pan*<br>
+arXiv preprint, 27 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.19070)]
+
 ## 3DGS Clothes/Garment
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**<br>
@@ -1498,6 +1552,11 @@ arXiv preprint, 4 Jun 2024<br>
 *Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang*<br>
 arXiv preprint, 4 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.02058)] [[Project](https://3d-aigc.github.io/OpenGaussian/)]
+
+**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**<br>
+*Daiwei Zhang, Gengyan Li, Jiajie Li, Mickaël Bressieux, Otmar Hilliges, Marc Pollefeys, Luc Van Gool, Xi Wang*<br>
+arXiv preprint, 28 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.19811)]
 
 ## 3DGS + Specular
 
