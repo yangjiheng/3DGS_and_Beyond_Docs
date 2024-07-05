@@ -70,6 +70,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
     - [3DGS Application in Animal Reconstruction](#3dgs-application-in-animal-reconstruction)
     - [3DGS Application in Medical Imaging](#3dgs-application-in-medical-imaging)
   - [3DGS Artifact Detection](#3dgs-artifact-detection)
+  - [3DGS Copyright/Safety](#3dgs-copyrightsafety)
   - [3DGS Applications in Satellite Images](#3dgs-applications-in-satellite-images)
   - [3DGS Network Applications](#3dgs-network-applications)
   - [3DGS for Acoustic](#3dgs-for-acoustic)
@@ -335,6 +336,11 @@ CVPR 2024, 15 Feb 2024<br>
 *Longwei Li, Huajian Huang, Sai-Kit Yeung, Hui Cheng*<br>
 arXiv preprint, 4 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.03202)]
+
+**RTGS: Enabling Real-TimeGaussianSplatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**<br>
+*Weikai Lin, Yu Feng, Yuhao Zhu*<br>
+arXiv preprint, 29 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.00435)] [[Code](https://github.com/horizon-research/Fov-3DGS)]
 
 ## 3DGS Geometry Reconstruction
 
@@ -809,6 +815,11 @@ arXiv preprint, 17 Jun 2024<br>
 arXiv preprint, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.10373)]
 
+**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**<br>
+*Sungwon Hwang, Min-Jung Kim, Taewoong Kang, Jayeon Kang, Jaegul Choo*<br>
+arXiv preprint, 3 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02945)] [[Project](https://vegs3d.github.io/)]
+
 ## 3DGS Autonomous Driving
 
 **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**<br>
@@ -835,6 +846,11 @@ arXiv preprint, 30 May 2024<br>
 *Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han*<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18198)] [[Project](https://3d-aigc.github.io/VDG/)]
+
+**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**<br>
+*Mustafa Khan, Hamidreza Fazlali, Dhruv Sharma, Tongtong Cao, Dongfeng Bai, Yuan Ren, Bingbing Liu*<br>
+arXiv preprint, 2 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02598)] [[Project](https://autosplat.github.io/)]
 
 ## 3DGS Based AIGC
 
@@ -1019,6 +1035,11 @@ arXiv preprint, 24 Jun 2024<br>
 *Taoran Yi, Jiemin Fang, Zanwei Zhou, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Xinggang Wang, Qi Tian*<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18462)] [[Project](https://taoranyi.com/gaussiandreamerpro/)] [[Code](https://github.com/hustvl/GaussianDreamerPro)]
+
+**TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation**<br>
+*Chaofan Luo, Donglin Di, Yongjia Ma, Zhou Xue, Chen Wei, Xun Yang, Yebin Liu*<br>
+arXiv preprint, 2 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02034)]
 
 ## 3DGS Model Compactness Optimization
 
@@ -1312,6 +1333,11 @@ arXiv preprint, 20 May 2024<br>
 arXiv preprint, 27 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.19070)]
 
+**Expressive Gaussian Human Avatars from Monocular RGB Video**<br>
+*Hezhen Hu, Zhiwen Fan, Tianhao Wu, Yihan Xi, Seoyoung Lee, Georgios Pavlakos, Zhangyang Wang*<br>
+arXiv preprint, 3 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.03204)] [[Project](https://evahuman.github.io/)]
+
 ## 3DGS Clothes/Garment
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**<br>
@@ -1557,6 +1583,12 @@ arXiv preprint, 4 Jun 2024<br>
 *Daiwei Zhang, Gengyan Li, Jiajie Li, Mickaël Bressieux, Otmar Hilliges, Marc Pollefeys, Luc Van Gool, Xi Wang*<br>
 arXiv preprint, 28 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.19811)]
+
+
+**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**<br>
+*Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang*<br>
+arXiv preprintm, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01220)]
 
 ## 3DGS + Specular
 
@@ -1884,12 +1916,29 @@ arXiv preprint, 5 Jun 2024<br>
 MICCAI 2024, 23 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.16073)] [[Project](https://lgs-endo.github.io/)] [[Code](https://github.com/CUHK-AIM-Group/LGS)]
 
+**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**<br>
+*Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu*<br>
+MICCAI 2024, 3 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02918)] [[Code](https://github.com/wrld/Free-SurGS)]
+
+**EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting**<br>
+*Chenxin Li, Brandon Y. Feng, Yifan Liu, Hengyu Liu, Cheng Wang, Weihao Yu, Yixuan Yuan*<br>
+MICCAI 2024, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01029)] [[Project](https://endo-sparse.github.io/)]
+
 ## 3DGS Artifact Detection
 
 **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**<br>
 *Mathis Kruse, Marco Rudolph, Dominik Woiwode, Bodo Rosenhahn*<br>
 CVPR 2024, 10 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.06832)]
+
+## 3DGS Copyright/Safety
+
+**GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting**<br>
+*Chenxin Li, Hengyu Liu, Zhiwen Fan, Wuyang Li, Yifan Liu, Panwang Pan, Yixuan Yuan*<br>
+arXiv preprint, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01301)] [[Project](https://gaussian-stego.github.io/)]
 
 ## 3DGS Applications in Satellite Images
 
