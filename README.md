@@ -43,6 +43,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS-NeRF Transfer](#3dgs-nerf-transfer)
   - [3DGS Generalization](#3dgs-generalization)
   - [3DGS Indoor Scene Reconstruction](#3dgs-indoor-scene-reconstruction)
+  - [3DGS Based Wild Scene Reconstruction](#3dgs-based-wild-scene-reconstruction)
   - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
   - [3DGS Autonomous Driving](#3dgs-autonomous-driving)
   - [3DGS Based AIGC](#3dgs-based-aigc)
@@ -729,6 +730,33 @@ arXiv preprint, 10 Apr 2024<br>
 arXiv preprint, 28 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.17958)]
 
+## 3DGS Based Wild Scene Reconstruction
+
+**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**<br>
+*Hiba Dahmani, Moussab Bennehar, Nathan Piasco, Luis Roldao, Dzmitry Tsishkou*<br>
+arXiv preprint, 15 Mar 2024<br>
+[[arXiv](https://arxiv.org/abs/2403.10427)]
+
+**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**<br>
+*Dongbin Zhang, Chuming Wang, Weitao Wang, Peihao Li, Minghan Qin, Haoqian Wang*<br>
+arXiv preprint, 23 Mar 2024<br>
+[[arXiv](https://arxiv.org/abs/2403.15704)]
+
+**WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections**<br>
+*Yuze Wang, Junyi Wang, Yue Qi*<br>
+arXiv preprint, 4 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.02407)] [[Project](https://yuzewang1998.github.io/we-gs.github.io/)]
+
+**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**<br>
+*Jiacong Xu, Yiqun Mei, Vishal M. Patel*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10373)]
+
+**WildGaussians: 3D Gaussian Splatting in the Wild**<br>
+*Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten Sattler*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08447)] [[Project](https://wild-gaussians.github.io/)] [[Code](https://github.com/jkulhanek/wild-gaussians/)]
+
 ## 3DGS Based Large Scene Reconstruction
 **Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**<br>
 *Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang*<br>
@@ -750,15 +778,6 @@ arXiv preprint, 22 Feb 2024<br>
 CVPR 2024, 27 Feb, 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.17427)] [[Project](https://vastgaussian.github.io/)]
 
-**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**<br>
-*Hiba Dahmani, Moussab Bennehar, Nathan Piasco, Luis Roldao, Dzmitry Tsishkou*<br>
-arXiv preprint, 15 Mar 2024<br>
-[[arXiv](https://arxiv.org/abs/2403.10427)]
-
-**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**<br>
-*Dongbin Zhang, Chuming Wang, Weitao Wang, Peihao Li, Minghan Qin, Haoqian Wang*<br>
-arXiv preprint, 23 Mar 2024<br>
-[[arXiv](https://arxiv.org/abs/2403.15704)]
 
 :fire:**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**<br>
 *Kerui Ren, Lihan Jiang, Tao Lu, Mulin Yu, Linning Xu, Zhangkai Ni, Bo Dai*<br>
@@ -810,30 +829,16 @@ arXiv preprint, 27 May 2024<br>
 arXiv preprint, 28 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.18416)] [[Project](https://streetunveiler.github.io/)] [[Code](https://github.com/DavidXu-JJ/StreetUnveiler)]
 
-**WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections**<br>
-*Yuze Wang, Junyi Wang, Yue Qi*<br>
-arXiv preprint, 4 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.02407)] [[Project](https://yuzewang1998.github.io/we-gs.github.io/)]
-
 **A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**<br>
 *Bernhard Kerbl, Andréas Meuleman, Georgios Kopanas, Michael Wimmer, Alexandre Lanvin, George Drettakis*<br>
 arXiv preprint, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.12080)] [[Project](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)]
-
-**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**<br>
-*Jiacong Xu, Yiqun Mei, Vishal M. Patel*<br>
-arXiv preprint, 14 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.10373)]
 
 **VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**<br>
 *Sungwon Hwang, Min-Jung Kim, Taewoong Kang, Jayeon Kang, Jaegul Choo*<br>
 arXiv preprint, 3 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.02945)] [[Project](https://vegs3d.github.io/)]
 
-**WildGaussians: 3D Gaussian Splatting in the Wild**<br>
-*Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten Sattler*<br>
-arXiv preprint, 11 Jul 2024<br>
-[[arXiv](https://arxiv.org/abs/2407.08447)] [[Project](https://wild-gaussians.github.io/)] [[Code](https://github.com/jkulhanek/wild-gaussians/)]
 
 ## 3DGS Autonomous Driving
 
