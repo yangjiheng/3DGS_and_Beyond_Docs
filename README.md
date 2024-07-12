@@ -107,6 +107,11 @@ arXiv preprint, 17 Mar 2024<br>
 arXiv preprint, 6 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.03417)]
 
+**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**<br>
+*Yonge Bai, LikHang Wong, TszYin Twan*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08137)]
+
 ## 3DGS Frameworks
 
 :fire:**GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond**<br>
@@ -825,6 +830,11 @@ arXiv preprint, 14 Jun 2024<br>
 arXiv preprint, 3 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.02945)] [[Project](https://vegs3d.github.io/)]
 
+**WildGaussians: 3D Gaussian Splatting in the Wild**<br>
+*Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten Sattler*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08447)] [[Project](https://wild-gaussians.github.io/)] [[Code](https://github.com/jkulhanek/wild-gaussians/)]
+
 ## 3DGS Autonomous Driving
 
 **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**<br>
@@ -1342,6 +1352,11 @@ arXiv preprint, 27 Jun 2024<br>
 *Hezhen Hu, Zhiwen Fan, Tianhao Wu, Yihan Xi, Seoyoung Lee, Georgios Pavlakos, Zhangyang Wang*<br>
 arXiv preprint, 3 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.03204)] [[Project](https://evahuman.github.io/)]
+
+**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**<br>
+*Yushuo Chen, Zerong Zheng, Zhe Li, Chao Xu, Yebin Liu*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08414)] [[Project](https://shad0wta9.github.io/meshavatar-page/)] [[Code](https://github.com/shad0wta9/meshavatar)]
 
 ## 3DGS Clothes/Garment
 
