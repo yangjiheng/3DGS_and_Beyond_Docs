@@ -70,6 +70,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Applications](#3dgs-applications)
     - [3DGS Application in Animal Reconstruction](#3dgs-application-in-animal-reconstruction)
     - [3DGS Application in Medical Imaging](#3dgs-application-in-medical-imaging)
+    - [3DGS Application in Underwater Scenario](#3dgs-application-in-underwater-scenario)
   - [3DGS Artifact Detection](#3dgs-artifact-detection)
   - [3DGS Copyright/Safety](#3dgs-copyrightsafety)
   - [3DGS Applications in Satellite Images](#3dgs-applications-in-satellite-images)
@@ -320,6 +321,11 @@ arXiv preprint, 28 Jun 2024<br>
 *Jiaze Li, Zhengyu Wen, Luo Zhang, Jiangbei Hu, Fei Hou, Zhebin Zhang, Ying He*<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18199)]
+
+**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**<br>
+*Zhentao Huang, Minglun Gong*<br>
+arXiv preprint, 13 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.09733)]
 
 ## 3DGS Acceleration
 
@@ -1363,6 +1369,11 @@ arXiv preprint, 3 Jul 2024<br>
 arXiv preprint, 11 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.08414)] [[Project](https://shad0wta9.github.io/meshavatar-page/)] [[Code](https://github.com/shad0wta9/meshavatar)]
 
+**Interactive Rendering of Relightable and Animatable Gaussian Avatars**<br>
+*Youyi Zhan, Tianjia Shao, He Wang, Yin Yang, Kun Zhou*<br>
+arXiv preprint, 15 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.10707)]
+
 ## 3DGS Clothes/Garment
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**<br>
@@ -1492,6 +1503,11 @@ arXiv preprint, 23 May 2024<br>
 CVPR AI4CC Workshop 2024, 12 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.08488)] [[Project](https://ice-gaussian.github.io/)]
 
+**3DEgo: 3D Editing on the Go!**<br>
+*Umar Khalid, Hasan Iqbal, Azib Farooq, Jing Hua, Chen Chen*<br>
+ECCV 2024, 14 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.10102)] [[Project](https://3dego.github.io/)]
+
 ## 3DGS Stylization
 
 **Gaussian Splatting in Style**<br>
@@ -1523,6 +1539,11 @@ arXiv preprint, 28 May 2024<br>
 *Inkyu Shin, Qihang Yu, Xiaohui Shen, In So Kweon, Kuk-Jin Yoon, Liang-Chieh Chen*<br>
 arXiv preprint,  4 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.02541)] [[Project](https://video-3dgs-project.github.io/)]
+
+**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**<br>
+*Sahil Jain, Avik Kuthiala, Prabhdeep Singh Sethi, Prakanshul Saxena*<br>
+arXiv preprint, 12 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.09473)] [[Project](https://bernard0047.github.io/stylesplat/)]
 
 
 ## 3DGS for Computer Graphics
@@ -1634,6 +1655,11 @@ arXiv preprintm, 1 Jul 2024<br>
 *Shengxiang Ji, Guanjun Wu, Jiemin Fang, Jiazhong Cen, Taoran Yi, Wenyu Liu, Qi Tian, Xinggang Wang*<br>
 arXiv preprint, 5 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.04504)] [[Project](https://jsxzs.github.io/sa4d/)]
+
+**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**<br>
+*W. J. Meijer, A.C. Kemmeren, E.H.J. Riemens, J.E. Fransman, M. van Bekkum, G.J. Burghouts, J.D. van Mil*<br>
+RSS Workshop on Semantics for Robotics 2024, 15 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.10743)]
 
 ## 3DGS + Specular
 
@@ -1906,6 +1932,11 @@ arXiv preprint, 21 Jun 2024<br>
 arXiv preprint, 4 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.03771)]
 
+**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**<br>
+*Jiyuan Zhang, Kang Chen, Shiyan Chen, Yajing Zheng, Tiejun Huang, Zhaofei Yu*<br>
+arXiv preprint, 14 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.10062)]
+
 ## 3DGS Applications
 
 ### 3DGS Application in Animal Reconstruction
@@ -1998,6 +2029,13 @@ MICCAI 2024, 1 Jul 2024<br>
 *Weixing Xie, Junfeng Yao, Xianpeng Cao, Qiqin Lin, Zerui Tang, Xiao Dong, Xiaohu Guo*<br>
 arXiv preprint, 6 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.05023)] [[Project](https://surgicalgaussian.github.io/)] [[Video](https://youtu.be/oEfHfG6_Ous)] [[Code](https://github.com/SurgicalGaussian/SurgicalGaussian)]
+
+### 3DGS Application in Underwater Scenario
+
+**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**<br>
+*Tianyi Zhang, Weiming Zhi, Kaining Huang, Joshua Mangelson, Corina Barbalata, Matthew Johnson-Roberson*<br>
+arXiv preprint, 14 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.10318)]
 
 ## 3DGS Artifact Detection
 
