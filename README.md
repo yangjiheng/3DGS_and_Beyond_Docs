@@ -36,6 +36,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
   - [3DGS Acceleration](#3dgs-acceleration)
   - [3DGS Geometry Reconstruction](#3dgs-geometry-reconstruction)
+  - [3DGS+Mesh For Reconstruction](#3dgsmesh-for-reconstruction)
   - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
   - [3DGS + Depth](#3dgs--depth)
   - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
@@ -113,6 +114,11 @@ arXiv preprint, 6 May 2024<br>
 *Yonge Bai, LikHang Wong, TszYin Twan*<br>
 arXiv preprint, 11 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.08137)]
+
+**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**<br>
+*Yanqi Bao, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo*<br>
+arXiv preprint, 24 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.17418)]
 
 ## 3DGS Frameworks
 
@@ -327,6 +333,16 @@ arXiv preprint, 26 Jun 2024<br>
 arXiv preprint, 13 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.09733)]
 
+**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**<br>
+*Congrong Xu, Justin Kerr, Angjoo Kanazawa*<br>
+arXiv preprint, 17 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.12306)] [[Code](https://github.com/KevinXu02/splatfacto-w)]
+
+**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**<br>
+*Zhuoxiao Li, Shanliang Yao, Yijie Chu, Angel F. Garcia-Fernandez, Yong Yue, Eng Gee Lim, Xiaohui Zhu*<br>
+arXiv preprint, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11840)] [[Project](https://mvgsplatting.github.io/)]
+
 ## 3DGS Acceleration
 
 **EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**<br>
@@ -435,6 +451,18 @@ arXiv preprint, 9 Jun 2024<br>
 *Adrian Xuan Wei Lim, Lynnette Hui Xian Ng, Nicholas Kyger, Tomo Michigami, Faraz Baghernezhad*<br>
 SIGGRAPH Poster 2024, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.11570)]
+
+## 3DGS+Mesh For Reconstruction
+
+**Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance**<br>
+*Jiyeop Kim, Jongwoo Lim*<br>
+arXiv preprint, 23 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.16173)]
+
+**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**<br>
+*Ruizhe Wang, Chunliang Hua, Tomakayev Shingys, Mengyuan Niu, Qingxin Yang, Lizhong Gao, Yi Zheng, Junyan Yang, Qiao Wang*<br>
+arXiv preprint, 22 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.15435)]
 
 ## 3DGS Based Dynamic Scene
 
@@ -578,6 +606,11 @@ SIGGRAPH 2024, 13 Jun 2024<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18717)]
 
+**Gaussian Splatting LK**<br>
+*Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni*<br>
+arXiv preprint, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11309)]
+
 ## 3DGS + Depth
 
 **DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**<br>
@@ -693,6 +726,11 @@ arXiv preprint, 14 Dec 2023<br>
 *Kaiwen Jiang, Yang Fu, Mukund Varma T, Yash Belhe, Xiaolong Wang, Hao Su, Ravi Ramamoorthi*<br>
 arXiv preprint, 6 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.03659)]
+
+**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**<br>
+*Matteo Bortolon, Theodore Tsesmelis, Stuart James, Fabio Poiesi, Alessio Del Bue*<br>
+ECCV 2024, 22 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.15484)] [[Project](https://mbortolon97.github.io/6dgs/)] [[Code](https://github.com/mbortolon97/6dgs)] [[Video](https://www.youtube.com/watch?v=SB4ToD93NFA)]
 
 
 ## 3DGS-NeRF Transfer
@@ -877,6 +915,16 @@ arXiv preprint, 26 Jun 2024<br>
 *Mustafa Khan, Hamidreza Fazlali, Dhruv Sharma, Tongtong Cao, Dongfeng Bai, Yuan Ren, Bingbing Liu*<br>
 arXiv preprint, 2 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.02598)] [[Project](https://autosplat.github.io/)]
+
+**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**<br>
+*Xi Shi, Lingli Chen, Peng Wei, Xi Wu, Tian Jiang, Yonggang Luo, Lecheng Xie*<br>
+arXiv preprint, 23 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.16600)] [[Project](https://ironbrotherstyle.github.io/dhgs_web/)]
+
+**GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation**<br>
+*Florian Chabot, Nicolas Granger, Guillaume Lapouge*<br>
+arXiv preprint, 19 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.14108)]
 
 ## 3DGS Based AIGC
 
@@ -1067,6 +1115,21 @@ arXiv preprint, 26 Jun 2024<br>
 arXiv preprint, 2 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.02034)]
 
+**HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions**<br>
+*Haiyang Zhou, Xinhua Cheng, Wangbo Yu, Yonghong Tian, Li Yuan*<br>
+arXiv preprint, 21 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.15187)] [[Project](https://zhouhyocean.github.io/holodreamer/)]
+
+**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**<br>
+*Zongrui Li, Minghui Hu, Qian Zheng, Xudong Jiang*<br>
+ECCV 2024, 18 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.13584)] [[Code](https://github.com/LMozart/ECCV2024-GCS-BEG)]
+
+**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**<br>
+*Yiming Xie, Chun-Han Yao, Vikram Voleti, Huaizu Jiang, Varun Jampani*<br>
+arXiv preprint, 24 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.17470)] [[Project](https://sv4d.github.io/)] [[Code](https://github.com/Stability-AI/generative-models)]
+
 ## 3DGS Model Compactness Optimization
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**<br>
@@ -1113,6 +1176,11 @@ arXiv preprint, 27 Jun 2024<br>
 *Muhammad Salman Ali, Maryam Qamar, Sung-Ho Bae, Enzo Tartaglione*<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18214)]
+
+**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**<br>
+*Qi Yang, Kaifa Yang, Yuke Xing, Yiling Xu, Zhu Li*<br>
+arXiv preprint, 19 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.14197)] [[Code](https://github.com/Qi-Yangsjtu/GGSC)]
 
 ## 3DGS Streaming
 
@@ -1373,6 +1441,16 @@ arXiv preprint, 11 Jul 2024<br>
 *Youyi Zhan, Tianjia Shao, He Wang, Yin Yang, Kun Zhou*<br>
 arXiv preprint, 15 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10707)]
+
+**Generalizable Human Gaussians for Sparse View Synthesis**<br>
+*Youngjoong Kwon, Baole Fang, Yixing Lu, Haoye Dong, Cheng Zhang, Francisco Vicente Carrasco, Albert Mosella-Montoro, Jianjin Xu, Shingo Takagi, Daeil Kim, Aayush Prakash, Fernando De la Torre*<br>
+arXiv preprint, 17 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.12777)]
+
+**iHuman: Instant Animatable Digital Humans From Monocular Videos**<br>
+*Pramish Paudel, Anubhav Khanal, Ajad Chhatkuli, Danda Pani Paudel, Jyoti Tandukar*<br>
+ECCV 2024, 15 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11174)]
 
 ## 3DGS Clothes/Garment
 
@@ -1661,6 +1739,11 @@ arXiv preprint, 5 Jul 2024<br>
 RSS Workshop on Semantics for Robotics 2024, 15 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10743)]
 
+**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**<br>
+*Seokhun Choi, Hyeonseop Song, Jaechul Kim, Taehyeong Kim, Hoseok Do*<br>
+ECCV 2024, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11793)] [[Project](https://seokhunchoi.github.io/Click-Gaussian/)]
+
 ## 3DGS + Specular
 
 **Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting**<br>
@@ -1766,6 +1849,11 @@ arXiv preprint, 30 May 2024<br>
 arXiv preprint, 24 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.16850)]
 
+**I^2-SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**<br>
+*Gwangtak Bae, Changwoon Choi, Hyeongjun Heo, Sang Min Kim, Young Min Kim*<br>
+ECCV 2024, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11347)]
+
 ## 3DGS Based Inverse Rendering
 
 **GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**<br>
@@ -1826,6 +1914,16 @@ arXiv preprint, 10 Jun 2024<br>
 arXiv preprint, 4 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.03923)] [[Project](https://jho-yonsei.github.io/CRiM-Gaussian/)]
 
+**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**<br>
+*Shreyas Singh, Aryan Garg, Kaushik Mitra*<br>
+arXiv preprint, 23 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.16503)]
+
+**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**<br>
+*Yuchen Weng, Zhengwen Shen, Ruofan Chen, Qi Wang, Jun Wang*<br>
+arXiv preprint, 18 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.13520)]
+
 ## 3DGS for Reflective and Transparent Objects
 
 **Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces**<br>
@@ -1879,6 +1977,11 @@ ACM MM 2024, 16 Apr 2024<br>
 *Xiqian Yu, Hanxin Zhu, Tianyu He, Zhibo Chen*<br>
 arXiv preprint, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.10111)] [[Project](https://chchnii.github.io/GaussianSR/)]
+
+**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**<br>
+*Jintong Hu, Bin Xia, Bin Chen, Wenming Yang, Lei Zhang*<br>
+arXiv preprint, 25 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.18046)]
 
 ## 3DGS for Point Cloud
 
@@ -1936,6 +2039,11 @@ arXiv preprint, 4 Jul 2024<br>
 *Jiyuan Zhang, Kang Chen, Shiyan Chen, Yajing Zheng, Tiejun Huang, Zhaofei Yu*<br>
 arXiv preprint, 14 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10062)]
+
+**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**<br>
+*Jingqian Wu, Shuo Zhu, Chutian Wang, Edmund Y. Lam*<br>
+arXiv preprint, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11343)]
 
 ## 3DGS Applications
 
@@ -2029,6 +2137,11 @@ MICCAI 2024, 1 Jul 2024<br>
 *Weixing Xie, Junfeng Yao, Xianpeng Cao, Qiqin Lin, Zerui Tang, Xiao Dong, Xiaohu Guo*<br>
 arXiv preprint, 6 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.05023)] [[Project](https://surgicalgaussian.github.io/)] [[Video](https://youtu.be/oEfHfG6_Ous)] [[Code](https://github.com/SurgicalGaussian/SurgicalGaussian)]
+
+**Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting**<br>
+*Tianle Zeng, Gerardo Loza Galindo, Junlei Hu, Pietro Valdastri, Dominic Jones*<br>
+MICCAI 2024, 20 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.14846)]
 
 ### 3DGS Application in Underwater Scenario
 
