@@ -8,6 +8,16 @@ We are actively maintaining this page trying to stay up-to-date and gather impor
 
 Please feel free to join us on WeChat group or start a discussion topic here.
 
+## NeRF/3DGS Book
+
+I have recently published a book with PHEI(Publishing House of Electronics Industry) on NeRF/3DGS. This would not have been possible without the help of the full 3D vision community. It is now available on jd.com and it should be suitable as a reference handbook for NeRF/3DGS beginners or engineers in related areas. I sincerely hope the book can be helpful in any perspective. 
+
+For those of you who have already purchased the book, all references can be downloaded [HERE](./assets/book_references.pdf). If you experience any issue reading the book or have any suggestions to improve it, please contact me through my email address: `jiheng.yang@gmail.com`, or directly concact me on WeChat: `jiheng_yang`. I'm looking forward to talk to anyone reaching out to me, thanks in advance.
+
+<div style="text-align: center;">
+  <img src="./assets/book_cover.jpeg" width="400">
+</div>
+
 ## How to join us
 
 For now, you can join us in the following ways
@@ -17,7 +27,7 @@ For now, you can join us in the following ways
 * If you want to view this from a timeline perspective, please refer to this [ProcessOn Diagram](https://www.processon.com/view/link/643f8907f1144c215788f3e2)
 * If you think something is not correct or you think we could do better in some way, please write to us through all possible channels or drop an issue. All suggestions are appreciated!
 * For other discussed techniques that's related to 3D reconstruction and NeRF, please refer to [link](./NeRF_Related_Tech.md), we are constantly trying to add more resource to this document.
-* We are trying to gradually setup Discord channels, join the [Discord Channel](https://discord.gg/AF2uMWGc) if you want to, we will certainly look forward to talk with you guys!
+
 
 ## NeRF Progresses
 
@@ -26,6 +36,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
 <summary>Table of Content</summary>
 
 - [`3DGS and Beyond Docs`](#3dgs-and-beyond-docs)
+  - [NeRF/3DGS Book](#nerf3dgs-book)
   - [How to join us](#how-to-join-us)
   - [NeRF Progresses](#nerf-progresses)
   - [3DGS Original Paper](#3dgs-original-paper)
