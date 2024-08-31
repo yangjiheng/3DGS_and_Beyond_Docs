@@ -1947,6 +1947,13 @@ arXiv preprint, 7 Aug 2024<br>
 arXiv preprint, 2 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.01126)]
 
+
+**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**<br>
+*Xinli Guo, Peng Han, Weidong Zhang, Hongtian Chen*<br>
+arXiv preprint, 18 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.11129)]
+
+
 ## 3DGS Based Inverse Rendering
 
 **GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**<br>
@@ -1958,11 +1965,6 @@ arXiv preprint, 8 Dec, 2023<br>
 *Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Yuewen Ma, Leif Kobbelt, Lin Gao*<br>
 arXiv preprint, 15 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.09412)]
-
-**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**<br>
-*Xinli Guo, Peng Han, Weidong Zhang, Hongtian Chen*<br>
-arXiv preprint, 18 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.11129)]
 
 **Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**<br>
 *Keyang Ye, Qiming Hou, Kun Zhou*<br>
