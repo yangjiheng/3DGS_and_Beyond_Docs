@@ -195,6 +195,11 @@ arXiv preprint, 2 Feb 2024<br>
 CVPR 2024, 11 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.06908)] [[Project](https://rogeraigc.github.io/FreGS-Page/)]
 
+**Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration**<br>
+*Zhihao Liang, Qi Zhang, Wenbo Hu, Ying Feng, Lei Zhu, Kui Jia*<br>
+arXiv preprint, 16 Mar 2024<br>
+[[arXiv](https://arxiv.org/abs/2403.11056)]
+
 **Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting**<br>
 *Zheng Zhang, Wenbo Hu, Yixing Lao, Tong He, Hengshuang Zhao*<br>
 arXiv preprint, 22 Mar 2024<br>
