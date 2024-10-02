@@ -60,6 +60,8 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Autonomous Driving](#3dgs-autonomous-driving)
   - [3DGS Based AIGC](#3dgs-based-aigc)
   - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
+    - [3DGS Model Compression Survey](#3dgs-model-compression-surveys)
+    - [3DGS Model Compression Progresses](#edgs-model-compression-progresses)
   - [3DGS Streaming](#3dgs-streaming)
   - [3DGS Based Relighting](#3dgs-based-relighting)
   - [3DGS Robotics](#3dgs-robotics)
@@ -1417,6 +1419,15 @@ ECCV 2024, 11 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.07454)] [[Project](https://dreammesh.github.io/)]
 
 ## 3DGS Model Compactness Optimization
+
+### 3DGS Model Compression Surveys
+
+**3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods**<br>
+*Milena T. Bagdasarian, Paul Knoll, Florian Barthel, Anna Hilsmann, Peter Eisert, Wieland Morgenstern*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.09510)] [[Project](https://w-m.github.io/3dgs-compression-survey/)]
+
+### 3DGS Model Compression Progresses
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**<br>
 *Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang*<br>
