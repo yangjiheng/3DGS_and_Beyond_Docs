@@ -1,4 +1,4 @@
-Para# <p align='center'>`3DGS and Beyond Docs`</p>
+# <p align='center'>`3DGS and Beyond Docs`</p>
 
 This is a collection of documents and topics NeRF/3DGS & Beyond channel accumulated, as well as papers in literaure. Since there are lots of papers out there, so we split them into two seperate repositories: [NeRF and Beyond Docs](https://github.com/yangjiheng/nerf_and_beyond_docs) and [3DGS and Beyond Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs). Please choose accordingly recarding to your preference.
 
@@ -50,6 +50,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS+Mesh For Reconstruction](#3dgsmesh-for-reconstruction)
   - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
   - [3DGS + Depth](#3dgs--depth)
+  - [3DGS Based Depth Estimation](#3dgs-based-depth-estimation)
   - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
   - [3DGS Weak Camera Pose](#3dgs-weak-camera-pose)
   - [3DGS-NeRF Transfer](#3dgs-nerf-transfer)
@@ -58,10 +59,11 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Based Wild Scene Reconstruction](#3dgs-based-wild-scene-reconstruction)
   - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
   - [3DGS Autonomous Driving](#3dgs-autonomous-driving)
+  - [3DGS Based Occupancy Prediction](#3dgs-based-occupancy-prediction)
   - [3DGS Based AIGC](#3dgs-based-aigc)
   - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
-    - [3DGS Model Compression Survey](#3dgs-model-compression-surveys)
-    - [3DGS Model Compression Progresses](#edgs-model-compression-progresses)
+    - [3DGS Model Compression Surveys](#3dgs-model-compression-surveys)
+    - [3DGS Model Compression Progresses](#3dgs-model-compression-progresses)
   - [3DGS Streaming](#3dgs-streaming)
   - [3DGS Based Relighting](#3dgs-based-relighting)
   - [3DGS Robotics](#3dgs-robotics)
