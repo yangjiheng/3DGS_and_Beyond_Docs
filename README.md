@@ -872,6 +872,11 @@ arXiv preprint, 28 Mar 2024<br>
 arXiv preprint, 22 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.14410)] [[Project](https://snuvclab.github.io/gtu/)]
 
+**GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields**<br>
+*Yuanhao Gong*<br>
+arXiv preprint, 8 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.05446)]
+
 **CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**<br>
 *Jiawei Zhang, Jiahe Li, Xiaohan Yu, Lei Huang, Lin Gu, Jin Zheng, Xiao Bai*<br>
 arXiv preprint, 20 May 2024<br>
@@ -2382,6 +2387,11 @@ arXiv preprint, 22 Apr 2024<br>
 arXiv preprint, 24 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.15891)] [[Code](https://github.com/CrystalWlz/OMEGAS)]
 
+:fire:**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**<br>
+*Hongyu Zhou, Jiahao Shao, Lu Xu, Dongfeng Bai, Weichao Qiu, Bingbing Liu, Yue Wang, Andreas Geiger, Yiyi Liao*<br>
+CVPR 2024, 19 Mar 2024<br>
+[[arXiv](https://arxiv.org/abs/2403.12722)] [[Project](https://xdimlab.github.io/hugs_website/)]
+
 **Memorize What Matters: Emergent Scene Decomposition from Multitraverse**<br>
 *Yiming Li, Zehong Wang, Yue Wang, Zhiding Yu, Zan Gojcic, Marco Pavone, Chen Feng, Jose M. Alvarez*<br>
 arXiv preprint, 27 May 2024<br>
@@ -2582,6 +2592,11 @@ arXiv preprint, 9 May 2024<br>
 *Rui Jin, Yuman Gao, Haojian Lu, Fei Gao*<br>
 arXiv preprint, 16 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.10142)]
+
+**GaussNav: Gaussian Splatting for Visual Navigation**<br>
+*Xiaohan Lei, Min Wang, Wengang Zhou, Houqiang Li*<br>
+arXiv preprint, 18 Mar 2024<br>
+[[arXiv](https://arxiv.org/abs/2403.11625)]
 
 **Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians**<br>
 *Erik Sandström, Keisuke Tateno, Michael Oechsle, Michael Niemeyer, Luc Van Gool, Martin R. Oswald, Federico Tombari*<br>
@@ -3132,10 +3147,16 @@ arXiv preprint, 10 Oct 2024<br>
 
 ## 3DGS Applications in UAV/MAV
 
+**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**<br>
+*Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan*<br>
+ICCP 2024, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01761)]
+
 **Developing Smart MAVs for Autonomous Inspection in GPS-denied Constructions**<br>
 *Paoqiang Pan, Kewei Hu, Xiao Huang, Wei Ying, Xiaoxuan Xie, Yue Ma, Naizhong Zhang, Hanwen Kang*<br>
 arXiv preprint, 12 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.06030)]
+
 
 ## 3DGS Applications in Satellite Images
 
