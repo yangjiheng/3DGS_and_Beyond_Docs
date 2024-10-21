@@ -163,6 +163,10 @@ arXiv preprint, 28 Mar 2024<br>
 arXiv preprint, 10 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.06765)]
 
+**SuperSplat - 3D Gaussian Splat Editor**<br>
+PlayCanvas<br>
+[[Code](https://github.com/playcanvas/supersplat)]
+
 ## 3DGS Profiling
 
 **NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**<br>
