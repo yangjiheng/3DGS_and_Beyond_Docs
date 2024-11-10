@@ -1317,6 +1317,11 @@ arXiv preprint, 6 Oct 2024<br>
 arXiv preprint, 16 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.12781)] [[Project](https://arthurhero.github.io/projects/llrm/)]
 
+:fire:**SCube: Instant Large-Scale Scene Reconstruction using VoxSplats**
+*Xuanchi Ren, Yifan Lu, Hanxue Liang, Zhangjie Wu, Huan Ling, Mike Chen, Sanja Fidler, Francis Williams, Jiahui Huang*<br>
+NeurIPS 2024, 26 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.20030)] [[Project](https://research.nvidia.com/labs/toronto-ai/scube/)] [[Code](https://github.com/nv-tlabs/SCube)] [[Video](https://www.bilibili.com/video/BV1K1mBYCELD/)]
+
 ## 3DGS Autonomous Driving
 
 **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**<br>
