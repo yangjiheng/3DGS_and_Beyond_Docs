@@ -215,12 +215,12 @@ Eurographics 2024, 11 Jan 2024<br>
 **Optimal Projection for 3D Gaussian Splatting**<br>
 *Letian Huang, Jiayang Bai, Jie Guo, Yanwen Guo*<br>
 arXiv preprint, 1 Feb 2024<br>
-[[arXiv](https://browse.arxiv.org/abs/2402.00752)]
+[[arXiv](https://arxiv.org/abs/2402.00752)]
 
 **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**<br>
 *Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek*<br>
 arXiv preprint, 2 Feb 2024<br>
-[[arXiv](https://browse.arxiv.org/abs/2402.01459)]
+[[arXiv](https://arxiv.org/abs/2402.01459)]
 
 **FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization**<br>
 *Jiahui Zhang, Fangneng Zhan, Muyu Xu, Shijian Lu, Eric Xing*<br>
@@ -509,7 +509,7 @@ arXiv preprint, 7 Dec, 2023<br>
 **StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering**<br>
 *Lukas Radl, Michael Steiner, Mathias Parger, Alexander Weinrauch, Bernhard Kerbl, Markus Steinberger*<br>
 SIGGRAPH 2024, 1 Feb 2024<br>
-[[arXiv](https://browse.arxiv.org/abs/2402.00525)] [[Project](https://r4dl.github.io/StopThePop/)] [[Code](https://github.com/r4dl/StopThePop)] [[Video](https://www.youtube.com/watch?v=EmcXtHYhigk)]
+[[arXiv](https://arxiv.org/abs/2402.00525)] [[Project](https://r4dl.github.io/StopThePop/)] [[Code](https://github.com/r4dl/StopThePop)] [[Video](https://www.youtube.com/watch?v=EmcXtHYhigk)]
 
 **GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**<br>
 *Abdullah Hamdi, Luke Melas-Kyriazi, Guocheng Qian, Jinjie Mai, Ruoshi Liu, Carl Vondrick, Bernard Ghanem, Andrea Vedaldi*<br>
@@ -1156,7 +1156,7 @@ NeurIPS 2024, 30 Oct 2024<br>
 **360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**<br>
 *Jiayang Bai, Letian Huang, Jie Guo, Wen Gong, Yuanqi Li, Yanwen Guo*<br>
 arXiv preprint, 1 Feb 2024<br>
-[[arXiv]](https://browse.arxiv.org/abs/2402.00763)
+[[arXiv]](https://arxiv.org/abs/2402.00763)
 
 **MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**<br>
 *Runfa Li, Upal Mahbub, Vasudev Bhaskaran, Truong Nguyen*<br>
