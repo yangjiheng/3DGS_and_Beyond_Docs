@@ -187,7 +187,7 @@ arXiv preprint, 26 Jun 2024<br>
 
 ## 3DGS Quality Enhancement
 
-**Mip-Splatting: Alias-free 3D Gaussian Splatting**<br>
+:fire:**Mip-Splatting: Alias-free 3D Gaussian Splatting**<br>
 *Zehao Yu, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger*<br>
 arXiv preprint, 27 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.16493)] [[Project](https://niujinshuchong.github.io/mip-splatting/)]
@@ -195,7 +195,7 @@ arXiv preprint, 27 Nov 2023<br>
 **Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering**<br>
 *Zhiwen Yan, Weng Fei Low, Yu Chen, Gim Hee Lee*<br>
 arXiv preprint, 28 Nov 2023<br>
-[[arXiv](https://arxiv.org/abs/2311.17089)]
+[[arXiv](https://arxiv.org/abs/2311.17089)] [[Project](https://jokeryan.github.io/projects/ms-gs/)] [[Code](https://github.com/JokerYan/MS-GS/tree/main)] [[Video](https://youtu.be/q77p5nKnpJw)]
 
 :fire:**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**<br>
 *Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai*<br>
