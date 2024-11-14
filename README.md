@@ -225,7 +225,7 @@ CVPR 2024, 11 Mar 2024<br>
 **Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration**<br>
 *Zhihao Liang, Qi Zhang, Wenbo Hu, Ying Feng, Lei Zhu, Kui Jia*<br>
 arXiv preprint, 16 Mar 2024<br>
-[[arXiv](https://arxiv.org/abs/2403.11056)]
+[[arXiv](https://arxiv.org/abs/2403.11056)] [[Project](https://lzhnb.github.io/project-pages/analytic-splatting/)] [[Code](https://github.com/lzhnb/Analytic-Splatting)]
 
 **Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting**<br>
 *Zheng Zhang, Wenbo Hu, Yixing Lao, Tong He, Hengshuang Zhao*<br>
