@@ -217,11 +217,6 @@ Eurographics 2024, 11 Jan 2024<br>
 arXiv preprint, 1 Feb 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.00752)]
 
-**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**<br>
-*Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek*<br>
-arXiv preprint, 2 Feb 2024<br>
-[[arXiv](https://arxiv.org/abs/2402.01459)]
-
 **FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization**<br>
 *Jiahui Zhang, Fangneng Zhan, Muyu Xu, Shijian Lu, Eric Xing*<br>
 CVPR 2024, 11 Mar 2024<br>
@@ -2367,6 +2362,11 @@ arXiv preprint, 28 Nov, 2023<br>
 *Jingyu Zhuang, Di Kang, Yan-Pei Cao, Guanbin Li, Liang Lin, Ying Shan*<br>
 SIGGRAPH 2024, 26 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.14828)]
+
+**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**<br>
+*Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek*<br>
+arXiv preprint, 2 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.01459)]
 
 **GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**<br>
 *Jing Wu, Jia-Wang Bian, Xinghui Li, Guangrun Wang, Ian Reid, Philip Torr, Victor Adrian Prisacariu*<br>
