@@ -775,7 +775,7 @@ arXiv preprint, 3 Jun 2024<br>
 **Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**<br>
 *Diwen Wan, Ruijie Lu, Gang Zeng*<br>
 ICML 2024, 6 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.03697)] [[Project](https://dnvtmf.github.io/SP_GS.github.io/)] [[Code]()https://github.com/dnvtmf/SP_GS]
+[[arXiv](https://arxiv.org/abs/2406.03697)] [[Project](https://dnvtmf.github.io/SP_GS.github.io/)] [[Code](https://github.com/dnvtmf/SP_GS)]
 
 **MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos**<br>
 *Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou*<br>
@@ -1053,7 +1053,7 @@ CVPR 2024, 12 Dec 2023<br>
 **iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**<br>
 *Yuan Sun, Xuan Wang, Yunfan Zhang, Jie Zhang, Caigui Jiang, Yu Guo, Fei Wang*<br>
 arXiv preprint, 14 Dec 2023<br>
-[[arXiv]https://arxiv.org/abs/2312.09031]
+[[arXiv](https://arxiv.org/abs/2312.09031)]
 
 **A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**<br>
 *Kaiwen Jiang, Yang Fu, Mukund Varma T, Yash Belhe, Xiaolong Wang, Hao Su, Ravi Ramamoorthi*<br>
@@ -2151,7 +2151,7 @@ arXiv preprint, 29 Apr 2024<br>
 **MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing**<br>
 *Cong Wang, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang*<br>
 arXiv preprint, 29 Apr 2024<br>
-[[arXiv]()https://arxiv.org/abs/2404.19026] [[Project](https://conallwang.github.io/MeGA_Pages/)]
+[[arXiv](https://arxiv.org/abs/2404.19026)] [[Project](https://conallwang.github.io/MeGA_Pages/)]
 
 **Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using Sparse RGB Cameras**<br>
 *Hanzhang Tu, Ruizhi Shao, Xue Dong, Shunyuan Zheng, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, Shengping Zhang, Boyao Zhou, Yebin Liu<br>
