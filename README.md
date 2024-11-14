@@ -352,10 +352,6 @@ arXiv preprint, 17 Jun 2024<br>
 arXiv preprint, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.10219)]
 
-**Unified Gaussian Primitives for Scene Representation and Rendering**<br>
-*Yang Zhou, Songyin Wu, Ling-Qi Yan*<br>
-arXiv preprint, 14 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.09733)]
 
 **Taming 3DGS: High-Quality Radiance Fields with Limited Resources**<br>
 *Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
@@ -392,10 +388,6 @@ arXiv preprint, 16 Jul 2024<br>
 ECCV 2024, 7 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.03753)]
 
-**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**<br>
-*Hugo Blanc, Jean-Emmanuel Deschaud, Alexis Paljic*<br>
-arXiv preprint, 6 Aug 2024<br>
-[[arXiv](https://arxiv.org/abs/2408.03356)] [[Project](https://raygauss.github.io/)]
 
 **Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**<br>
 *Jiameng Li, Yue Shi, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*<br>
@@ -488,6 +480,26 @@ arXiv preprint, 28 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.20686)] [[Code](https://github.com/esw0116/ODGS)]
 
 ## 3DGS with Ray Tracing
+
+**Don't Splat your Gaussians: Volumetric Ray-Traced Primitives for Modeling and Rendering Scattering and Emissive Media**<br>
+*Jorge Condor, Sebastien Speierer, Lukas Bode, Aljaz Bozic, Simon Green, Piotr Didyk, Adrian Jarabo*<br>
+arXiv preprint, 24 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.15425)]
+
+**Unified Gaussian Primitives for Scene Representation and Rendering**<br>
+*Yang Zhou, Songyin Wu, Ling-Qi Yan*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.09733)]
+
+**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**<br>
+*Nicolas Moenne-Loccoz, Ashkan Mirzaei, Or Perel, Riccardo de Lutio, Janick Martinez Esturo, Gavriel State, Sanja Fidler, Nicholas Sharp, Zan Gojcic*<br>
+arXiv preprint, 9 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.07090)]
+
+**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**<br>
+*Hugo Blanc, Jean-Emmanuel Deschaud, Alexis Paljic*<br>
+arXiv preprint, 6 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.03356)] [[Project](https://raygauss.github.io/)]
 
 **EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**<br>
 *Alexander Mai, Peter Hedman, George Kopanas, Dor Verbin, David Futschik, Qiangeng Xu, Falko Kuester, Jon Barron, Yinda Zhang*<br>
@@ -2551,11 +2563,6 @@ arXiv preprint, 31 May 2024<br>
 *Tianyu Huang, Yihan Zeng, Hui Li, Wangmeng Zuo, Rynson W. H. Lau*<br>
 arXiv preprint, 3 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.01476)] [[Code](https://github.com/tyhuang0428/DreamPhysics)]
-
-**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**<br>
-*Nicolas Moenne-Loccoz, Ashkan Mirzaei, Or Perel, Riccardo de Lutio, Janick Martinez Esturo, Gavriel State, Sanja Fidler, Nicholas Sharp, Zan Gojcic*<br>
-arXiv preprint, 9 Jul 2024<br>
-[[arXiv](https://arxiv.org/abs/2407.07090)]
 
 **GASP: Gaussian Splatting for Physic-Based Simulations**<br>
 *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*<br>
