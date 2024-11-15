@@ -222,7 +222,7 @@ arXiv preprint, 1 Feb 2024<br>
 CVPR 2024, 11 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.06908)] [[Project](https://rogeraigc.github.io/FreGS-Page/)]
 
-**Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration**<br>
+:fire:**Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration**<br>
 *Zhihao Liang, Qi Zhang, Wenbo Hu, Ying Feng, Lei Zhu, Kui Jia*<br>
 arXiv preprint, 16 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.11056)] [[Project](https://lzhnb.github.io/project-pages/analytic-splatting/)] [[Code](https://github.com/lzhnb/Analytic-Splatting)]
