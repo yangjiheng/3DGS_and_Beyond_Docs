@@ -247,11 +247,6 @@ arXiv preprint, 5 Apr 2024<br>
 arXiv preprint, 9 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.06109)]
 
-**Hash3D: Training-free Acceleration for 3D Generation**<br>
-*Xingyi Yang, Xinchao Wang*<br>
-arXiv preprint, 9 Apr 2024<br>
-[[arXiv](https://arxiv.org/abs/2404.06091)] [[Project](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
-
 **EGGS: Edge Guided Gaussian Splatting for Radiance Fields**<br>
 *Yuanhao Gong*<br>
 arXiv preprint, 14 Apr 2024<br>
@@ -315,12 +310,7 @@ arXiv preprint, 20 May 2024<br>
 **Feature Splatting for Better Novel View Synthesis with Low Overlap**<br>
 *T. Berriel Martins, Javier Civera*<br>
 arXiv preprint, 24 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.15518)]
-
-**LP-3DGS: Learning to Prune 3D Gaussian Splatting**<br>
-*Zhaoliang Zhang, Tianchen Song, Yongjae Lee, Li Yang, Cheng Peng, Rama Chellappa, Deliang Fan*<br>
-arXiv preprint, 29 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.18784)]
+[[arXiv](https://arxiv.org/abs/2405.15518)] [[Code](https://github.com/tberriel/FeatSplat)]
 
 **NegGS: Negative Gaussian Splatting**<br>
 *Artur Kasymov, Bartosz Czekaj, Marcin Mazur, Przemysław Spurek*<br>
@@ -518,6 +508,7 @@ arXiv preprint, 7 Dec, 2023<br>
 SIGGRAPH 2024, 1 Feb 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.00525)] [[Project](https://r4dl.github.io/StopThePop/)] [[Code](https://github.com/r4dl/StopThePop)] [[Video](https://www.youtube.com/watch?v=EmcXtHYhigk)]
 
+
 **GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**<br>
 *Abdullah Hamdi, Luke Melas-Kyriazi, Guocheng Qian, Jinjie Mai, Ruoshi Liu, Carl Vondrick, Bernard Ghanem, Andrea Vedaldi*<br>
 CVPR 2024, 15 Feb 2024<br>
@@ -527,6 +518,11 @@ CVPR 2024, 15 Feb 2024<br>
 *Longwei Li, Huajian Huang, Sai-Kit Yeung, Hui Cheng*<br>
 arXiv preprint, 4 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.03202)]
+
+**Hash3D: Training-free Acceleration for 3D Generation**<br>
+*Xingyi Yang, Xinchao Wang*<br>
+arXiv preprint, 9 Apr 2024<br>
+[[arXiv](https://arxiv.org/abs/2404.06091)] [[Project](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
 
 **RTGS: Enabling Real-TimeGaussianSplatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**<br>
 *Weikai Lin, Yu Feng, Yuhao Zhu*<br>
@@ -1729,6 +1725,11 @@ arXiv preprint, 15 Apr 2024<br>
 *Xiangyu Sun, Joo Chan Lee, Daniel Rho, Jong Hwan Ko, Usman Ali, Eunbyung Park*<br>
 arXiv preprint, 27 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.17083)] [[Project](https://xiangyu1sun.github.io/Factorize-3DGS/)] [[Code](https://github.com/Xiangyu1Sun/Factorize-3DGS)]
+
+**LP-3DGS: Learning to Prune 3D Gaussian Splatting**<br>
+*Zhaoliang Zhang, Tianchen Song, Yongjae Lee, Li Yang, Cheng Peng, Rama Chellappa, Deliang Fan*<br>
+arXiv preprint, 29 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.18784)]
 
 **ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**<br>
 *Yufei Wang, Zhihao Li, Lanqing Guo, Wenhan Yang, Alex C. Kot, Bihan Wen*<br>
