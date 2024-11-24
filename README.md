@@ -148,7 +148,6 @@ The emergence of 3D Gaussian Splatting (3DGS) has greatly accelerated the render
 
 [[arXiv](https://arxiv.org/abs/2403.11134)]<br>
 
-
 **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**<br>
 *Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård*<br>
 arXiv preprint, 6 May 2024<br>
@@ -181,7 +180,6 @@ We present GauStudio, a novel modular framework for modeling 3D Gaussian Splatti
 
 [[arXiv](https://arxiv.org/abs/2403.19632)] [[Code](https://github.com/GAP-LAB-CUHK-SZ/gaustudio)]<br>
 
-
 **gsplat: An Open-Source Library for Gaussian Splatting**<br>
 *Vickie Ye, Ruilong Li, Justin Kerr, Matias Turkulainen, Brent Yi, Zhuoyang Pan, Otto Seiskari, Jianbo Ye, Jeffrey Hu, Matthew Tancik, Angjoo Kanazawa*<br>
 arXiv preprint, 10 Sep 2024<br>
@@ -200,7 +198,7 @@ arXiv preprint, 25 Jun 2024<br>
 
 ## 3DGS Distributed Training
 
-**On Scaling Up 3D Gaussian Splatting Training**
+**On Scaling Up 3D Gaussian Splatting Training**<br>
 *Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie*<br>
 arXiv preprint, 26 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18533)] [[Project](https://daohanlu.github.io/scaling-up-3dgs)] [[Code](https://github.com/nyu-systems/Grendel-GS)]
@@ -238,15 +236,23 @@ Neural rendering methods have significantly advanced photo-realistic 3D scene re
 arXiv preprint, 21 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.13729)]
 
-**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**<br>
+:fire:**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**<br>
 *Linus Franke, Darius Rückert, Laura Fink, Marc Stamminger*<br>
 Eurographics 2024, 11 Jan 2024<br>
-[[arXiv](https://arxiv.org/abs/2401.06003)] [[Project](https://lfranke.github.io/trips/)] [[Code](https://github.com/lfranke/trips)] [[Video](https://www.youtube.com/watch?v=Nw4A1tIcErQ&feature=youtu.be)]
+<details span>
+<summary><b>Abstract</b></summary>
+Point-based radiance field rendering has demonstrated impressive results for novel view synthesis, offering a compelling blend of rendering quality and computational efficiency. However, also latest approaches in this domain are not without their shortcomings. 3D Gaussian Splatting [Kerbl and Kopanas et al. 2023] struggles when tasked with rendering highly detailed scenes, due to blurring and cloudy artifacts. On the other hand, ADOP [Rückert et al. 2022] can accommodate crisper images, but the neural reconstruction network decreases performance, it grapples with temporal instability and it is unable to effectively address large gaps in the point cloud.
+In this paper, we present TRIPS (Trilinear Point Splatting), an approach that combines ideas from both Gaussian Splatting and ADOP. The fundamental concept behind our novel technique involves rasterizing points into a screen-space image pyramid, with the selection of the pyramid layer determined by the projected point size. This approach allows rendering arbitrarily large points using a single trilinear write. A lightweight neural network is then used to reconstruct a hole-free image including detail beyond splat resolution. Importantly, our render pipeline is entirely differentiable, allowing for automatic optimization of both point sizes and positions.
+Our evaluation demonstrate that TRIPS surpasses existing state-of-the-art methods in terms of rendering quality while maintaining a real-time frame rate of 60 frames per second on readily available hardware. This performance extends to challenging scenarios, such as scenes featuring intricate geometry, expansive landscapes, and auto-exposed footage.
+The project page is located at: this https URL
+</details>
 
-**Optimal Projection for 3D Gaussian Splatting**<br>
+[[arXiv](https://arxiv.org/abs/2401.06003)] [[Project](https://lfranke.github.io/trips/)] [[Code](https://github.com/lfranke/trips)] [[Video](https://www.youtube.com/watch?v=Nw4A1tIcErQ&feature=youtu.be)]<br>
+
+**On the Error Analysis of 3D Gaussian Splatting and an Optimal Projection Strategy**<br>
 *Letian Huang, Jiayang Bai, Jie Guo, Yanwen Guo*<br>
-arXiv preprint, 1 Feb 2024<br>
-[[arXiv](https://arxiv.org/abs/2402.00752)]
+ECCV 2024, 1 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.00752)] [[Project](https://letianhuang.github.io/op43dgs/)] [[Code](https://github.com/LetianHuang/op43dgs)]
 
 **FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization**<br>
 *Jiahui Zhang, Fangneng Zhan, Muyu Xu, Shijian Lu, Eric Xing*<br>
