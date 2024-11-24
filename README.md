@@ -527,7 +527,7 @@ arXiv preprint, 12 Nov 2024<br>
 **SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**<br>
 *Yutong Chen, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, Siyu Tang*<br>
 arXiv preprint, 10 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.06390)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)] [[Project](https://sergeyprokudin.github.io/splatformer/)]
+[[arXiv](https://arxiv.org/abs/2411.06390)] [[Project](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)] 
 
 **BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**<br>
 *David Svitov, Pietro Morerio, Lourdes Agapito, Alessio Del Bue*<br>
