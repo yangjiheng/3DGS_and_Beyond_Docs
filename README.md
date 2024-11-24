@@ -562,9 +562,14 @@ arXiv preprint, 9 Jul 2024<br>
 arXiv preprint, 6 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.03356)] [[Project](https://raygauss.github.io/)]
 
-**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**<br>
+:fire:**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**<br>
 *Alexander Mai, Peter Hedman, George Kopanas, Dor Verbin, David Futschik, Qiangeng Xu, Falko Kuester, Jon Barron, Yinda Zhang*<br>
 arXiv preprint, 2 Oct 2024<br>
+<details span>
+<summary><b>Abstract</b></summary>
+We present Exact Volumetric Ellipsoid Rendering (EVER), a method for real-time differentiable emission-only volume rendering. Unlike recent rasterization based approach by 3D Gaussian Splatting (3DGS), our primitive based representation allows for exact volume rendering, rather than alpha compositing 3D Gaussian billboards. As such, unlike 3DGS our formulation does not suffer from popping artifacts and view dependent density, but still achieves frame rates of ∼30 FPS at 720p on an NVIDIA RTX4090. Since our approach is built upon ray tracing it enables effects such as defocus blur and camera distortion (e.g. such as from fisheye cameras), which are difficult to achieve by rasterization. We show that our method is more accurate with fewer blending issues than 3DGS and follow-up work on view-consistent rendering, especially on the challenging large-scale scenes from the Zip-NeRF dataset where it achieves sharpest results among real-time techniques.
+</details>
+
 [[arXiv](https://arxiv.org/abs/2410.01804)] [[Project](https://half-potato.gitlab.io/posts/ever/)] [[Video](https://www.bilibili.com/video/BV1atxXeREWg/)]
 
 ## 3DGS Acceleration
