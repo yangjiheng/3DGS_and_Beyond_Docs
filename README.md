@@ -302,7 +302,7 @@ arXiv preprint, 14 Apr 2024<br>
 **3D Gaussian Splatting as Markov Chain Monte Carlo**<br>
 *Shakiba Kheradmand, Daniel Rebain, Gopal Sharma, Weiwei Sun, Jeff Tseng, Hossam Isack, Abhishek Kar, Andrea Tagliasacchi, Kwang Moo Yi*<br>
 arXiv preprint, 15 Apr 2024<br>
-[[arXiv](https://zhuanlan.zhihu.com/p/692938277)]
+[[arXiv](https://arxiv.org/abs/2404.09591)]
 
 **LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**<br>
 *Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*<br>
@@ -356,7 +356,7 @@ arXiv preprint, 22 May 2024<br>
 
 **AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**<br>
 *Rong Liu, Rui Xu, Yue Hu, Meida Chen, Andrew Feng*<br>
-arXiv preprint, 20 May 2024<br>
+BMVC 2024, 20 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.12369)] [[Project](https://rongliu-leo.github.io/AtomGS/)] [[Code](https://github.com/RongLiu-Leo/AtomGS)] [[Video](https://www.youtube.com/watch?v=1B7oga_1BqE)]
 
 **Feature Splatting for Better Novel View Synthesis with Low Overlap**<br>
@@ -394,7 +394,6 @@ arXiv preprint, 17 Jun 2024<br>
 arXiv preprint, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.10219)]
 
-
 **Taming 3DGS: High-Quality Radiance Fields with Limited Resources**<br>
 *Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
 arXiv preprint, 21 Jun 2024<br>
@@ -429,7 +428,6 @@ arXiv preprint, 16 Jul 2024<br>
 *Zhe Jun Tang, Tat-Jen Cham*<br>
 ECCV 2024, 7 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.03753)]
-
 
 **Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**<br>
 *Jiameng Li, Yue Shi, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*<br>
