@@ -3103,8 +3103,7 @@ CVPR 2024, 11 Dec 2024<br>
 We present the first application of 3D Gaussian Splatting in monocular SLAM, the most fundamental but the hardest setup for Visual SLAM. Our method, which runs live at 3fps, utilises Gaussians as the only 3D representation, unifying the required representation for accurate, efficient tracking, mapping, and high-quality rendering. Designed for challenging monocular settings, our approach is seamlessly extendable to RGB-D SLAM when an external depth sensor is available. Several innovations are required to continuously reconstruct 3D scenes with high fidelity from a live camera. First, to move beyond the original 3DGS algorithm, which requires accurate poses from an offline Structure from Motion (SfM) system, we formulate camera tracking for 3DGS using direct optimisation against the 3D Gaussians, and show that this enables fast and robust tracking with a wide basin of convergence. Second, by utilising the explicit nature of the Gaussians, we introduce geometric verification and regularisation to handle the ambiguities occurring in incremental 3D dense reconstruction. Finally, we introduce a full SLAM system which not only achieves state-of-the-art results in novel view synthesis and trajectory estimation but also reconstruction of tiny and even transparent objects.
 </details>
 
-
-[[arXiv](https://arxiv.org/abs/2312.06741)] [[Project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
+[[arXiv](https://arxiv.org/abs/2312.06741)] [[Project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]<br>
 
 **LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**<br>
 *Sheng Hong, Junjie He, Xinhu Zheng, Hesheng Wang, Hao Fang, Kangcheng Liu, Chunran Zheng, Shaojie Shen*<br>
@@ -3114,7 +3113,11 @@ arXiv preprint, 26 Jan 2024<br>
 :fire:**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**<br>
 *Mingrui Li, Shuhong Liu, Heng Zhou*<br>
 arXiv preprint, 5 Feb 2024<br>
-[[arXiv](https://arxiv.org/abs/2402.03246)]
+<summary><b>Abstract</b></summary>
+We present SGS-SLAM, the first semantic visual SLAM system based on Gaussian Splatting. It incorporates appearance, geometry, and semantic features through multi-channel optimization, addressing the oversmoothing limitations of neural implicit SLAM systems in high-quality rendering, scene understanding, and object-level geometry. We introduce a unique semantic feature loss that effectively compensates for the shortcomings of traditional depth and color losses in object optimization. Through a semantic-guided keyframe selection strategy, we prevent erroneous reconstructions caused by cumulative errors. Extensive experiments demonstrate that SGS-SLAM delivers state-of-the-art performance in camera pose estimation, map reconstruction, precise semantic segmentation, and object-level geometric accuracy, while ensuring real-time rendering capabilities.
+</details>
+
+[[arXiv](https://arxiv.org/abs/2402.03246)]<br>
 
 **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**<br>
 *Heng Zhou, Zhetao Guo, Shuhong Liu, Lechen Zhang, Qihao Wang, Yuxiang Ren, Mingrui Li*<br>
