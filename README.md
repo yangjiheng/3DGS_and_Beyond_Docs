@@ -3074,6 +3074,11 @@ arXiv preprint, 24 Feb 2024<br>
 
 ## 3DGS Based SLAM
 
+**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**<br>
+*Chi Yan, Delin Qu, Dan Xu, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li*<br>
+CVPR 2024, 20 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.11700)] [[Project](https://gs-slam.github.io/)]
+
 :fire:**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**<br>
 *Nikhil Keetha, Jay Karhade, Krishna Murthy Jatavallabhula, Gengshan Yang, Sebastian Scherer, Deva Ramanan, Jonathon Luiten*<br>
 CVPR 2024, 4 Dec 2023<br>
@@ -3082,6 +3087,16 @@ CVPR 2024, 4 Dec 2023<br>
 Dense simultaneous localization and mapping (SLAM) is crucial for robotics and augmented reality applications. However, current methods are often hampered by the non-volumetric or implicit way they represent a scene. This work introduces SplaTAM, an approach that, for the first time, leverages explicit volumetric representations, i.e., 3D Gaussians, to enable high-fidelity reconstruction from a single unposed RGB-D camera, surpassing the capabilities of existing methods. SplaTAM employs a simple online tracking and mapping system tailored to the underlying Gaussian representation. It utilizes a silhouette mask to elegantly capture the presence of scene density. This combination enables several benefits over prior representations, including fast rendering and dense optimization, quickly determining if areas have been previously mapped, and structured map expansion by adding more Gaussians. Extensive experiments show that SplaTAM achieves up to 2x superior performance in camera pose estimation, map construction, and novel-view synthesis over existing methods, paving the way for more immersive high-fidelity SLAM applications.
 </details>
 
+**Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting**<br>
+*Vladimir Yugay, Yue Li, Theo Gevers, Martin R. Oswald*<br>
+6 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.10070)]
+
+:fire:**Gaussian Splatting SLAM**<br>
+*Hidenobu Matsuki, Riku Murai, Paul H.J. Kelly, Andrew J. Davison*<br>
+CVPR 2024, 11 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2312.06741)] [[Project](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
+
 [[arXiv](https://arxiv.org/abs/2312.02126)] [[Project](https://spla-tam.github.io/)] [[Code])(https://github.com/spla-tam/SplaTAM)] [[Video](https://youtu.be/jWLI-OFp3qU)]<br>
 
 **LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**<br>
@@ -3089,7 +3104,7 @@ Dense simultaneous localization and mapping (SLAM) is crucial for robotics and a
 arXiv preprint, 26 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.14857)]
 
-**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**<br>
+:fire:**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**<br>
 *Mingrui Li, Shuhong Liu, Heng Zhou*<br>
 arXiv preprint, 5 Feb 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.03246)]
