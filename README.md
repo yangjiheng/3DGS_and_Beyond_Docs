@@ -57,6 +57,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Object Pose Estimation](#3dgs-object-pose-estimation)
   - [3DGS-NeRF Transfer](#3dgs-nerf-transfer)
   - [3DGS Generalization](#3dgs-generalization)
+  - [Generalizable 3DGS with Feed-forward Networks](#generalizable-3dgs-with-feed-forward-networks)
   - [3DGS Indoor Scene Reconstruction](#3dgs-indoor-scene-reconstruction)
   - [3DGS Based Wild Scene Reconstruction](#3dgs-based-wild-scene-reconstruction)
   - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
@@ -544,6 +545,16 @@ arXiv preprint, 13 Nov 2024<br>
 19 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.12440)]
 
+**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**<br>
+*Brian Chao, Hung-Yu Tseng, Lorenzo Porzi, Chen Gao, Tuotuo Li, Qinbo Li, Ayush Saraf, Jia-Bin Huang, Johannes Kopf, Gordon Wetzstein, Changil Kim*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18625)]  [[Project](https://textured-gaussians.github.io/)] 
+
+**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**<br>
+*Jan Held, Renaud Vandeghen, Abdullah Hamdi, Adrien Deliege, Anthony Cioppa, Silvio Giancola, Andrea Vedaldi, Bernard Ghanem, Marc Van Droogenbroeck*<br>
+22 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.14974)] [[Project](https://convexsplatting.github.io/)] [[Video](https://www.youtube.com/watch?v=5N3OFHH7lbU)] [[Code](https://github.com/convexsplatting/convex-splatting)]
+
 ## 3DGS with Ray Tracing
 
 **Don't Splat your Gaussians: Volumetric Ray-Traced Primitives for Modeling and Rendering Scattering and Emissive Media**<br>
@@ -745,6 +756,31 @@ In this paper we present a novel method for efficient and effective 3D surface r
 </details>
 
 [[arXiv](https://arxiv.org/abs/2411.01853)]<br>
+
+**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**<br>
+*Ziyu Zhang, Binbin Huang, Hanqing Jiang, Liyang Zhou, Xiaojun Xiang, Shunhan Shen*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16392)] 
+
+**Geometry Field Splatting with Gaussian Surfels**<br>
+*Kaiwen Jiang, Venkataram Sivaram, Cheng Peng, Ravi Ramamoorthi*<br>
+26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17067)]
+
+**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**<br>
+*Kunyi Li, Michael Niemeyer, Zeyu Chen, Nassir Navab, Federico Tombari*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16898)]
+
+**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**<br>
+*Xu Baixin, Hu Jiangbei, Li Jiaze, He Ying*<br>
+24 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15723)] [[Code](https://github.com/xubaixinxbx/Gsurf)]
+
+**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**<br>
+*Runfa Blark Li, Keito Suzuki, Bang Du, Ki Myung Brian Le, Nikolay Atanasov, Truong Nguyen*<br>
+23 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15468)]
 
 ## 3DGS+Mesh For Reconstruction
 
@@ -985,6 +1021,16 @@ arXiv preprint, 19 Nov 2024<br>
 18 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.11941)]  [[Project](https://patrickddj.github.io/TimeFormer/)]
 
+**4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction**<br>
+*Woong Oh Cho, In Cho, Seoha Kim, Jeongmin Bae, Youngjung Uh, Seon Joo Kim*<br>
+26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17044)] 
+
+**Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction**<br>
+*Wenhao Xu, Wenming Weng, Yueyi Zhang, Ruikang Xu, Zhiwei Xiong*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16180)]
+
 ## 3DGS + Depth
 
 :fire:**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**<br>
@@ -1106,11 +1152,6 @@ arXiv preprint, 26 May 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.20310)]
 
-**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**<br>
-*Stanislaw Szymanowicz, Eldar Insafutdinov, Chuanxia Zheng, Dylan Campbell, João F. Henriques, Christian Rupprecht, Andrea Vedaldi*<br>
-arXiv preprint, 6 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.04343)] [[Project](https://www.robots.ox.ac.uk/~vgg/research/flash3d/)]
-
 **GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**<br>
 *Yuxuan Mu, Xinxin Zuo, Chuan Guo, Yilin Wang, Juwei Lu, Xiaofeng Wu, Songcen Xu, Peng Dai, Youliang Yan, Li Cheng*<br>
 ECCV 2024, 5 Jul 2024<br>
@@ -1196,11 +1237,6 @@ NeurIPS 2024, 21 Oct 2024<br>
 NeurIPS 2024, 24 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.18822)] [[Project](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)]
 
-**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**<br>
-*Yuedong Chen, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai*<br>
-NeurIPS 2024, 7 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.04924)] [[Project](https://donydchen.github.io/mvsplat360/)]  [[Code](https://github.com/donydchen/mvsplat360)]
-
 **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**<br>
 *Rui Peng, Wangze Xu, Luyang Tang, Liwei Liao, Jianbo Jiao, Ronggang Wang*<br>
 NeurIPS 2024, 6 Nov 2024<br>
@@ -1263,15 +1299,15 @@ arXiv preprint, 24 Sep 2024<br>
 arXiv preprint, 21 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.14067)] [[Project](https://zju3dv.github.io/splatloc/)] [[Code](https://github.com/zhaihongjia/SplatLoc)]
 
-**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**<br>
-*Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jisang Han, Jiaolong Yang, Chong Luo, Seungryong Kim*<br>
-arXiv preprint, 29 Oct 2024<br>
-[[arXiv](https://arxiv.org/abs/2410.22128)] [[Project](https://cvlab-kaist.github.io/PF3plat/)] [[Code](https://github.com/cvlab-kaist/PF3plat)]
-
 **Generating 3D-Consistent Videos from Unposed Internet Photos**<br>
 *Gene Chou, Kai Zhang, Sai Bi, Hao Tan, Zexiang Xu, Fujun Luan, Bharath Hariharan, Noah Snavely*<br>
 arXiv preprint, 20 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.13549)]
+
+**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**<br>
+*Yu Chen, Rolandos Alexandros Potamias, Evangelos Ververas, Jifei Song, Jiankang Deng, Gim Hee Lee*<br>
+24 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15779)]  [[Project](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
 
 ## 3DGS Object Pose Estimation
 
@@ -1319,14 +1355,6 @@ arXiv preprint, 17 Sep 2024<br>
 arXiv preprint, 17 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.13862)] [[Project](https://haofeixu.github.io/depthsplat/)] [[Code](https://github.com/cvg/depthsplat)]
 
-:fire:**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**<br>
-*Botao Ye, Sifei Liu, Haofei Xu, Xueting Li, Marc Pollefeys, Ming-Hsuan Yang, Songyou Peng*<br>
-arXiv preprint, 31 Oct 2024<br>
-<details span>
-<summary><b>Abstract</b></summary>
-We introduce NoPoSplat, a feed-forward model capable of reconstructing 3D scenes parameterized by 3D Gaussians from \textit{unposed} sparse multi-view images. Our model, trained exclusively with photometric loss, achieves real-time 3D Gaussian reconstruction during inference. To eliminate the need for accurate pose input during reconstruction, we anchor one input view's local camera coordinates as the canonical space and train the network to predict Gaussian primitives for all views within this space. This approach obviates the need to transform Gaussian primitives from local coordinates into a global coordinate system, thus avoiding errors associated with per-frame Gaussians and pose estimation. To resolve scale ambiguity, we design and compare various intrinsic embedding methods, ultimately opting to convert camera intrinsics into a token embedding and concatenate it with image tokens as input to the model, enabling accurate scene scale prediction. We utilize the reconstructed 3D Gaussians for novel view synthesis and pose estimation tasks and propose a two-stage coarse-to-fine pipeline for accurate pose estimation. Experimental results demonstrate that our pose-free approach can achieve superior novel view synthesis quality compared to pose-required methods, particularly in scenarios with limited input image overlap. For pose estimation, our method, trained without ground truth depth or explicit matching loss, significantly outperforms the state-of-the-art methods with substantial improvements. This work makes significant advances in pose-free generalizable 3D reconstruction and demonstrates its applicability to real-world scenarios. Code and trained models are available at this https URL.
-</details>
-
 [[arXiv](https://arxiv.org/abs/2410.24207)] [[Project](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]<br>
 
 **Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**<br>
@@ -1338,6 +1366,56 @@ NeurIPS 2024, 30 Oct 2024<br>
 *Boyao Zhou, Shunyuan Zheng, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu*<br>
 CVPR 2024, 18 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.11363)] [[Project](https://yaourtb.github.io/GPS-Gaussian+/)]
+
+**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**<br>
+*Yanyan Li, Yixin Fang, Federico Tombari, Gim Hee Lee*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18072)]
+
+**Distractor-free Generalizable 3D Gaussian Splatting**<br>
+*Yanqi Bao, Jing Liao, Jing Huo, Yang Gao*<br>
+26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17605)] [[Code](https://github.com/bbbbby-99/DGGS)]
+
+**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**<br>
+*Gyeongjin Kang, Jisang Yoo, Jihyeon Park, Seungtae Nam, Hyeonsoo Im, Sangheon Shin, Sangpil Kim, Eunbyung Park*<br>
+26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17190)] [[Project](https://gynjn.github.io/selfsplat/)] [[Code](https://github.com/Gynjn/selfsplat)]
+
+## Generalizable 3DGS with Feed-forward Networks
+
+**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**<br>
+*Stanislaw Szymanowicz, Eldar Insafutdinov, Chuanxia Zheng, Dylan Campbell, João F. Henriques, Christian Rupprecht, Andrea Vedaldi*<br>
+arXiv preprint, 6 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.04343)] [[Project](https://www.robots.ox.ac.uk/~vgg/research/flash3d/)]
+
+**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**<br>
+*Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jisang Han, Jiaolong Yang, Chong Luo, Seungryong Kim*<br>
+arXiv preprint, 29 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.22128)] [[Project](https://cvlab-kaist.github.io/PF3plat/)] [[Code](https://github.com/cvlab-kaist/PF3plat)]
+
+:fire:**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**<br>
+*Botao Ye, Sifei Liu, Haofei Xu, Xueting Li, Marc Pollefeys, Ming-Hsuan Yang, Songyou Peng*<br>
+arXiv preprint, 31 Oct 2024<br>
+<details span>
+<summary><b>Abstract</b></summary>
+We introduce NoPoSplat, a feed-forward model capable of reconstructing 3D scenes parameterized by 3D Gaussians from \textit{unposed} sparse multi-view images. Our model, trained exclusively with photometric loss, achieves real-time 3D Gaussian reconstruction during inference. To eliminate the need for accurate pose input during reconstruction, we anchor one input view's local camera coordinates as the canonical space and train the network to predict Gaussian primitives for all views within this space. This approach obviates the need to transform Gaussian primitives from local coordinates into a global coordinate system, thus avoiding errors associated with per-frame Gaussians and pose estimation. To resolve scale ambiguity, we design and compare various intrinsic embedding methods, ultimately opting to convert camera intrinsics into a token embedding and concatenate it with image tokens as input to the model, enabling accurate scene scale prediction. We utilize the reconstructed 3D Gaussians for novel view synthesis and pose estimation tasks and propose a two-stage coarse-to-fine pipeline for accurate pose estimation. Experimental results demonstrate that our pose-free approach can achieve superior novel view synthesis quality compared to pose-required methods, particularly in scenarios with limited input image overlap. For pose estimation, our method, trained without ground truth depth or explicit matching loss, significantly outperforms the state-of-the-art methods with substantial improvements. This work makes significant advances in pose-free generalizable 3D reconstruction and demonstrates its applicability to real-world scenarios. Code and trained models are available at this https URL.
+</details>
+
+**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**<br>
+*Yuedong Chen, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai*<br>
+NeurIPS 2024, 7 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.04924)] [[Project](https://donydchen.github.io/mvsplat360/)]  [[Code](https://github.com/donydchen/mvsplat360)]
+
+**NovelGS: Consistent Novel-view Denoising via Large Gaussian Reconstruction Model**<br>
+*Jinpeng Liu, Jiale Xu, Weihao Cheng, Yiming Gao, Xintao Wang, Ying Shan, Yansong Tang*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16779)]
+
+**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**<br>
+*Zequn Chen, Jiezhi Yang, Heng Yang*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16877)] [[Project](https://computationalrobotics.seas.harvard.edu/PreF3R/)] [[Code](https://github.com/ComputationalRobotics/PreF3R)]
 
 ## 3DGS Indoor Scene Reconstruction
 
@@ -1637,6 +1715,21 @@ arXiv preprint, 17 Oct 2024<br>
 19 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.12452)] [[Code](https://github.com/Public-BOTs/GaussianPretrain)]
 
+**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**<br>
+*Georg Hess, Carl Lindström, Maryam Fatemi, Christoffer Petersson, Lennart Svensson*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16816)] [[Project](https://research.zenseact.com/publications/splatad/)]
+
+**EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting**<br>
+*Xiaobao Wei, Qingpo Wuwu, Zhongyu Zhao, Zhuangzhe Wu, Nan Huang, Ming Lu, Ningning MA, Shanghang Zhang*<br>
+23 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15582)] [[Project](https://qingpowuwu.github.io/emdgaussian.github.io/)]
+
+**SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving**<br>
+*Su Sun, Cheng Zhao, Zhuoyang Sun, Yingjie Victor Chen, Mei Chen*<br>
+23 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15482)]
+
 ## 3DGS Based Occupancy Prediction
 
 **GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**<br>
@@ -1930,6 +2023,11 @@ arXiv preprint, 21 Nov 2024<br>
 3DV 2025, 17 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.10947)] [[Project](https://hao-yu-wu.github.io/gen3d/)] [[Video](https://www.youtube.com/watch?v=SucVXcm_3sY)]
 
+**PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image**<br>
+*Han Yan, Mingrui Zhang, Yang Li, Chao Ma, Pan Ji*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18548)] [[Project](https://wolfball.github.io/phycage/)] [[Video](https://youtu.be/IHQqLli_s2o)]
+
 ## 3DGS Model Compactness Optimization
 
 ### 3DGS Model Compression Surveys
@@ -2035,6 +2133,11 @@ arXiv preprint, 30 Oct 2024<br>
 *He Huang, Wenjie Huang, Qi Yang, Yiling Xu, Zhu li*<br>
 arXiv preprint, 11 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.06976)]
+
+**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**<br>
+*Lei Liu, Zhenghao Chen, Dong Xu*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18473)]
 
 ## 3DGS Streaming
 
@@ -2567,6 +2670,16 @@ arXiv preprint, 5 Nov 2024<br>
 20 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.12981)] [[Project](https://ucwxb.github.io/GazeGaussian/)]
 
+**Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters**<br>
+*Zhiyang Guo, Jinxu Xiang, Kai Ma, Wengang Zhou, Houqiang Li, Ran Zhang*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18197)] [[Project](https://jasongzy.github.io/Make-It-Animatable/)] [[Video](https://www.youtube.com/watch?v=mH6L9r_28LA)] [[Code](https://github.com/jasongzy/Make-It-Animatable)]
+
+**DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models**<br>
+*Yangyang Qian, Yuan Sun, Yu Guo*<br>
+24 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15732)]
+
 ## 3DGS Clothes/Garment
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**<br>
@@ -2745,6 +2858,16 @@ arXiv preprint, 29 Sep 2024<br>
 *Jun-Kun Chen, Yu-Xiong Wang*<br>
 NeurIPS 2024, 7 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.05006)] [[Project](https://immortalco.github.io/ProEdit/)]
+
+**Neural Surface Priors for Editable Gaussian Splatting**<br>
+*Jakub Szymkowiak, Weronika Jakubowska, Dawid Malarz, Weronika Smolak-Dyżewska, Maciej Zięba, Przemysław Musialski, Wojtek Pałubicki, Przemysław Spurek*<br>
+27 Not 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18311)] [[Code](https://github.com/WJakubowska/NeuralSurfacePriors)]
+
+**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**<br>
+*Hyojun Go, Byeongjun Park, Jiho Jang, Jin-Young Kim, Soonwoo Kwon, Changick Kim*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16443)] [[Project](https://gohyojun15.github.io/SplatFlow/)] [[Code](https://github.com/gohyojun15/SplatFlow/)]
 
 ## 3DGS Stylization
 
@@ -3006,6 +3129,16 @@ NeurIPS 2024, 28 Oct 2024<br>
 *Ola Shorinwa, Jiankai Sun, Mac Schwager*<br>
 arXiv preprint, 20 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.13753)]
+
+**GLS: Geometry-aware 3D Language Gaussian Splatting**<br>
+*Jiaxiong Qiu, Liu Liu, Zhizhong Su, Tianwei Lin*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.18066)] [[Code](https://github.com/JiaxiongQ/GLS)]
+
+**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**<br>
+*Guangzhao Dai, Jian Zhao, Yuantao Chen, Yusen Qin, Hao Zhao, Guosen Xie, Yazhou Yao, Xiangbo Shu, Xuelong Li*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16053)]
 
 ## 3DGS based Segmentation
 
@@ -3334,6 +3467,26 @@ arXiv preprint, 13 Nov 2024<br>
 *Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim*<br>
 16 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.10722)]
+
+**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**<br>
+*Wei Zhang, Qing Cheng, David Skuddis, Niclas Zeller, Daniel Cremers, Norbert Haala*<br>
+27 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17982)] [[Project](https://hi-slam2.github.io/)] [[Code](https://github.com/Willyzw/HI-SLAM2)]
+
+**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**<br>
+*Christian Homeyer, Leon Begiristain, Christoph Schnörr*<br>
+26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17660)] [[Code](https://github.com/ChenHoy/DROID-Splat)]
+
+**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**<br>
+*Haoang Li, Xiangqi Meng, Xingxing Zuo, Zhe Liu, Hesheng Wang, Daniel Cremers*<br>
+24 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15800)]
+
+**Gassidy: Gaussian Splatting SLAM in Dynamic Environments**<br>
+*Long Wen, Shixin Li, Yu Zhang, Yuhong Huang, Jianjie Lin, Fengjunjie Pan, Zhenshan Bing, Alois Knoll*<br>
+23 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15476)]
 
 
 ## 3DGS Based 3D Point Tracking
