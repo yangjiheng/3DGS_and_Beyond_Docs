@@ -319,10 +319,15 @@ arXiv preprint, 9 Apr 2024<br>
 arXiv preprint, 14 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.09105)]
 
-**3D Gaussian Splatting as Markov Chain Monte Carlo**<br>
+:fire:**3D Gaussian Splatting as Markov Chain Monte Carlo**<br>
 *Shakiba Kheradmand, Daniel Rebain, Gopal Sharma, Weiwei Sun, Jeff Tseng, Hossam Isack, Abhishek Kar, Andrea Tagliasacchi, Kwang Moo Yi*<br>
 arXiv preprint, 15 Apr 2024<br>
-[[arXiv](https://arxiv.org/abs/2404.09591)]
+<details span>
+<summary><b>Abstract</b></summary>
+While 3D Gaussian Splatting has recently become popular for neural rendering, current methods rely on carefully engineered cloning and splitting strategies for placing Gaussians, which can lead to poor-quality renderings, and reliance on a good initialization. In this work, we rethink the set of 3D Gaussians as a random sample drawn from an underlying probability distribution describing the physical representation of the scene-in other words, Markov Chain Monte Carlo (MCMC) samples. Under this view, we show that the 3D Gaussian updates can be converted as Stochastic Gradient Langevin Dynamics (SGLD) updates by simply introducing noise. We then rewrite the densification and pruning strategies in 3D Gaussian Splatting as simply a deterministic state transition of MCMC samples, removing these heuristics from the framework. To do so, we revise the 'cloning' of Gaussians into a relocalization scheme that approximately preserves sample probability. To encourage efficient use of Gaussians, we introduce a regularizer that promotes the removal of unused Gaussians. On various standard evaluation scenes, we show that our method provides improved rendering quality, easy control over the number of Gaussians, and robustness to initialization.
+</details>
+
+[[arXiv](https://arxiv.org/abs/2404.09591)] [[Project](https://ubc-vision.github.io/3dgs-mcmc/)] [[Code](https://github.com/ubc-vision/3dgs-mcmc)]
 
 **LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**<br>
 *Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*<br>
