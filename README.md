@@ -45,6 +45,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Profiling](#3dgs-profiling)
   - [3DGS Distributed Training](#3dgs-distributed-training)
   - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
+  - [3DGS with Lower Memory Footprint](#3dgs-with-lower-memory-footprint)
   - [3DGS with Ray Tracing](#3dgs-with-ray-tracing)
   - [3DGS Acceleration](#3dgs-acceleration)
   - [3DGS Geometry Reconstruction](#3dgs-geometry-reconstruction)
@@ -345,14 +346,6 @@ CVPRW 2024, 16 Apr 2024<br>
 arXiv preprint, 18 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.12547)] [[Project](https://theialab.github.io/nerf-3dgs/)]
 
-:fire:**Spectrally Pruned Gaussian Fields with Neural Compensation**<br>
-*Runyi Yang, Zhenxin Zhu, Zhou Jiang, Baijun Ye, Xiaoxue Chen, Yifei Zhang, Yuantao Chen, Jian Zhao, Hao Zhao*<br>
-arXiv preprint, 1 May 2024<br>
-<details span>
-<summary><b>Abstract</b></summary>
-Recently, 3D Gaussian Splatting, as a novel 3D representation, has garnered attention for its fast rendering speed and high rendering quality. However, this comes with high memory consumption, e.g., a well-trained Gaussian field may utilize three million Gaussian primitives and over 700 MB of memory. We credit this high memory footprint to the lack of consideration for the relationship between primitives. In this paper, we propose a memory-efficient Gaussian field named SUNDAE with spectral pruning and neural compensation. On one hand, we construct a graph on the set of Gaussian primitives to model their relationship and design a spectral down-sampling module to prune out primitives while preserving desired signals. On the other hand, to compensate for the quality loss of pruning Gaussians, we exploit a lightweight neural network head to mix splatted features, which effectively compensates for quality losses while capturing the relationship between primitives in its weights. We demonstrate the performance of SUNDAE with extensive results. For example, SUNDAE can achieve 26.80 PSNR at 145 FPS using 104 MB memory while the vanilla Gaussian splatting algorithm achieves 25.60 PSNR at 160 FPS using 523 MB memory, on the Mip-NeRF360 dataset. Codes are publicly available at this https URL.
-</details>
-
 [[arXiv](https://arxiv.org/abs/2405.00676)] [[Project](https://runyiyang.github.io/projects/SUNDAE/)] [[Code](https://github.com/RunyiYang/SUNDAE)]<br>
 
 **Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**<br>
@@ -595,6 +588,16 @@ arXiv preprint, 13 Nov 2024<br>
 16 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.11762)]
 
+## 3DGS with Lower Memory Footprint
+
+:fire:**Spectrally Pruned Gaussian Fields with Neural Compensation**<br>
+*Runyi Yang, Zhenxin Zhu, Zhou Jiang, Baijun Ye, Xiaoxue Chen, Yifei Zhang, Yuantao Chen, Jian Zhao, Hao Zhao*<br>
+arXiv preprint, 1 May 2024<br>
+<details span>
+<summary><b>Abstract</b></summary>
+Recently, 3D Gaussian Splatting, as a novel 3D representation, has garnered attention for its fast rendering speed and high rendering quality. However, this comes with high memory consumption, e.g., a well-trained Gaussian field may utilize three million Gaussian primitives and over 700 MB of memory. We credit this high memory footprint to the lack of consideration for the relationship between primitives. In this paper, we propose a memory-efficient Gaussian field named SUNDAE with spectral pruning and neural compensation. On one hand, we construct a graph on the set of Gaussian primitives to model their relationship and design a spectral down-sampling module to prune out primitives while preserving desired signals. On the other hand, to compensate for the quality loss of pruning Gaussians, we exploit a lightweight neural network head to mix splatted features, which effectively compensates for quality losses while capturing the relationship between primitives in its weights. We demonstrate the performance of SUNDAE with extensive results. For example, SUNDAE can achieve 26.80 PSNR at 145 FPS using 104 MB memory while the vanilla Gaussian splatting algorithm achieves 25.60 PSNR at 160 FPS using 523 MB memory, on the Mip-NeRF360 dataset. Codes are publicly available at this https URL.
+</details>
+
 ## 3DGS with Ray Tracing
 
 **Don't Splat your Gaussians: Volumetric Ray-Traced Primitives for Modeling and Rendering Scattering and Emissive Media**<br>
@@ -802,7 +805,7 @@ arXiv preprint, 9 Oct 2024<br>
 NeurIPS 2024, 27 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.20593)]
 
-"fire:**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**<br>
+:fire:**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**<br>
 *Gaochao Song, Chong Cheng, Hao Wang*<br>
 NeurIPS 2024, 4 Nov 2024<br>
 <details span>
