@@ -113,6 +113,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS with Fisheye Camera](#3dgs-with-fisheye-camera)
   - [3DGS with Compressive Sensing](#3dgs-with-compressive-sensing)
   - [Other NVS Methods](#other-nvs-methods)
+  - [Other Upstream work(Occasionally Came Across)](#other-upstream-workoccasionally-came-across)
   - [Other Surveys](#other-surveys)
   - [Contributors](#contributors)
   - [License](#license)
@@ -329,11 +330,6 @@ While 3D Gaussian Splatting has recently become popular for neural rendering, cu
 
 [[arXiv](https://arxiv.org/abs/2404.09591)] [[Project](https://ubc-vision.github.io/3dgs-mcmc/)] [[Code](https://github.com/ubc-vision/3dgs-mcmc)]
 
-**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**<br>
-*Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*<br>
-arXiv preprint, 13 Apr 2024<br>
-[[arXiv](https://arxiv.org/abs/2404.08966)]
-
 **AbsGS: Recovering Fine Details for 3D Gaussian Splatting**<br>
 *Zongxin Ye, Wenyu Li, Sidun Liu, Peng Qiao, Yong Dou*<br>
 arXiv preprint, 16 Apr 2024<br>
@@ -348,11 +344,6 @@ CVPRW 2024, 16 Apr 2024<br>
 *Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi*<br>
 arXiv preprint, 18 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.12547)] [[Project](https://theialab.github.io/nerf-3dgs/)]
-
-**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**<br>
-*Cameron Smith, David Charatan, Ayush Tewari, Vincent Sitzmann*<br>
-arXiv preprint, 23 Apr 2024<br>
-[[arXiv](https://arxiv.org/abs/2404.15259)]
 
 :fire:**Spectrally Pruned Gaussian Fields with Neural Compensation**<br>
 *Runyi Yang, Zhenxin Zhu, Zhou Jiang, Baijun Ye, Xiaoxue Chen, Yifei Zhang, Yuantao Chen, Jian Zhao, Hao Zhao*<br>
@@ -3240,6 +3231,11 @@ arXiv preprint, 12 Mar 2024<br>
 arXiv preprint, 8 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.05220)]
 
+**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**<br>
+*Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*<br>
+arXiv preprint, 13 Apr 2024<br>
+[[arXiv](https://arxiv.org/abs/2404.08966)]
+
 **InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior**<br>
 *Zhiheng Liu, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Jie Xiao, Kai Zhu, Nan Xue, Yu Liu, Yujun Shen, Yang Cao*<br>
 arXiv preprint, 17 Apr 2024<br>
@@ -4591,6 +4587,13 @@ arXiv preprint, 7  Sep 2024<br>
 *Haian Jin, Hanwen Jiang, Hao Tan, Kai Zhang, Sai Bi, Tianyuan Zhang, Fujun Luan, Noah Snavely, Zexiang Xu*<br>
 arXiv preprint, 22 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.17242)] [[Project](https://haian-jin.github.io/projects/LVSM/)]
+
+## Other Upstream work(Occasionally Came Across)
+
+**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**<br>
+*Cameron Smith, David Charatan, Ayush Tewari, Vincent Sitzmann*<br>
+arXiv preprint, 23 Apr 2024<br>
+[[arXiv](https://arxiv.org/abs/2404.15259)]
 
 ## Other Surveys
 
