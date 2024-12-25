@@ -274,6 +274,16 @@ The 3D Gaussian Splatting (3DGS) gained its popularity recently by combining the
 
 [[arXiv](https://arxiv.org/abs/2403.11056)] [[Project](https://lzhnb.github.io/project-pages/analytic-splatting/)] [[Code](https://github.com/lzhnb/Analytic-Splatting)]<br>
 
+:fire:**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**<br>
+*Guangchi Fang, Bing Wang*<br>
+ECCV 2024, 21 Mar 2024<br>
+<details span>
+<summary><b>Abstract</b></summary>
+In this study, we explore the challenge of efficiently representing scenes with a constrained number of Gaussians. Our analysis shifts from traditional graphics and 2D computer vision to the perspective of point clouds, highlighting the inefficient spatial distribution of Gaussian representation as a key limitation in model performance. To address this, we introduce strategies for densification including blur split and depth reinitialization, and simplification through intersection preserving and sampling. These techniques reorganize the spatial positions of the Gaussians, resulting in significant improvements across various datasets and benchmarks in terms of rendering quality, resource consumption, and storage compression. Our Mini-Splatting integrates seamlessly with the original rasterization pipeline, providing a strong baseline for future research in Gaussian-Splatting-based works. \href{this https URL}{Code is available}.
+</details>
+
+[[arXiv](https://arxiv.org/abs/2403.14166)] [[Code](https://github.com/fatPeter/mini-splatting)]
+
 **Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting**<br>
 *Zheng Zhang, Wenbo Hu, Yixing Lao, Tong He, Hengshuang Zhao*<br>
 ECCV 2024, 22 Mar 2024<br>
@@ -1592,6 +1602,11 @@ NeurIPS 2024, 7 Nov 2024<br>
 *Yabo Chen, Chen Yang, Jiemin Fang, Xiaopeng Zhang, Lingxi Xie, Wei Shen, Wenrui Dai, Hongkai Xiong, Qi Tian*<br>
 12 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.09597)] [[Project](https://liftimage3d.github.io/)]
+
+**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**<br>
+*Wonseok Roh, Hwanhee Jung, Jong Wook Kim, Seunggwan Lee, Innfarn Yoo, Andreas Lugmayr, Seunggeun Chi, Karthik Ramani, Sangpil Kim*<br>
+17 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.12906)]
 
 ## 3DGS Indoor Scene Reconstruction
 
