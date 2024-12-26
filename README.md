@@ -66,7 +66,7 @@ For NeRF related progress, you can refer to [NeRF and Beyond Docs](https://githu
   - [3DGS Based Occupancy Prediction](#3dgs-based-occupancy-prediction)
   - [3DGS Based on Diffusion](#3dgs-based-on-diffusion)
   - [3DGS Based AIGC](#3dgs-based-aigc)
-  - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
+  - [3DGS Model Compression](#3dgs-model-compression)
     - [3DGS Model Compression Surveys](#3dgs-model-compression-surveys)
     - [3DGS Model Compression Progresses](#3dgs-model-compression-progresses)
   - [3DGS Streaming](#3dgs-streaming)
@@ -352,21 +352,6 @@ arXiv preprint, 18 Apr 2024<br>
 *Yifei Gao, Jie Ou, Lei Wang, Jun Cheng*<br>
 arXiv preprint, 29 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.18669)]
-
-**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**<br>
-*Jinwei Lin*<br>
-arXiv preprint, 10 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.06408)]
-
-**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**<br>
-*Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han*<br>
-arXiv preprint, 22 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.13694)]
-
-**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**<br>
-*Rong Liu, Rui Xu, Yue Hu, Meida Chen, Andrew Feng*<br>
-BMVC 2024, 20 May 2024<br>
-[[arXiv](https://arxiv.org/abs/2405.12369)] [[Project](https://rongliu-leo.github.io/AtomGS/)] [[Code](https://github.com/RongLiu-Leo/AtomGS)] [[Video](https://www.youtube.com/watch?v=1B7oga_1BqE)]
 
 **Feature Splatting for Better Novel View Synthesis with Low Overlap**<br>
 *T. Berriel Martins, Javier Civera*<br>
@@ -663,6 +648,11 @@ arXiv preprint, 4 Apr 2024<br>
 arXiv preprint, 9 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.06091)] [[Project](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
 
+**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**<br>
+*Jinwei Lin*<br>
+arXiv preprint, 10 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.06408)]
+
 **RTGS: Enabling Real-TimeGaussianSplatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering**<br>
 *Weikai Lin, Yu Feng, Yuhao Zhu*<br>
 arXiv preprint, 29 Jun 2024<br>
@@ -704,6 +694,11 @@ arXiv preprint, 21 Nov 2023<br>
 *Hanlin Chen, Chen Li, Gim Hee Lee*<br>
 arXiv preprint, 1 Dec, 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.00846)]
+
+**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**<br>
+*Rong Liu, Rui Xu, Yue Hu, Meida Chen, Andrew Feng*<br>
+BMVC 2024, 20 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.12369)] [[Project](https://rongliu-leo.github.io/AtomGS/)] [[Code](https://github.com/RongLiu-Leo/AtomGS)] [[Video](https://www.youtube.com/watch?v=1B7oga_1BqE)]
 
 :fire:**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**<br>
 *Binbin Huang, Zehao Yu, Anpei Chen, Andreas Geiger, Shenghua Gao*<br>
@@ -953,6 +948,11 @@ arXiv preprint, 4 Apr 2024<br>
 *Zhicheng Lu, Xiang Guo, Le Hui, Tianrui Chen, Min Yang, Xiao Tang, Feng Zhu, Yuchao Dai*<br>
 CVPR 2024, 9 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.06270)] [[Project](https://npucvr.github.io/GaGS/)]
+
+**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**<br>
+*Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han*<br>
+arXiv preprint, 22 May 2024<br>
+[[arXiv](https://arxiv.org/abs/2405.13694)]
 
 **MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**<br>
 *Jiahui Lei, Yijia Weng, Adam Harley, Leonidas Guibas, Kostas Daniilidis*<br>
@@ -2298,7 +2298,7 @@ arXiv preprint, 21 Nov 2024<br>
 11 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.09648)]
 
-## 3DGS Model Compactness Optimization
+## 3DGS Model Compression
 
 ### 3DGS Model Compression Surveys
 
