@@ -205,6 +205,12 @@ arXiv preprint, 25 Jun 2024<br>
 
 ## 3DGS Distributed Training
 
+**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**<br>
+*Bingling Li, Shengyi Chen, Luchao Wang, Kaimin He, Sijie Yan, Yuanjun Xiong*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11836)]
+
+
 **On Scaling Up 3D Gaussian Splatting Training**<br>
 *Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie*<br>
 arXiv preprint, 26 Jun 2024<br>
@@ -346,8 +352,6 @@ CVPRW 2024, 16 Apr 2024<br>
 arXiv preprint, 18 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.12547)] [[Project](https://theialab.github.io/nerf-3dgs/)]
 
-[[arXiv](https://arxiv.org/abs/2405.00676)] [[Project](https://runyiyang.github.io/projects/SUNDAE/)] [[Code](https://github.com/RunyiYang/SUNDAE)]<br>
-
 **Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**<br>
 *Yifei Gao, Jie Ou, Lei Wang, Jun Cheng*<br>
 arXiv preprint, 29 Apr 2024<br>
@@ -373,20 +377,10 @@ arXiv preprint, 4 Jun 2024<br>
 arXiv preprint, 6 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.04251)] [[Code](https://github.com/Surrey-UP-Lab/GS-LPM)]
 
-**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**<br>
-*Bingling Li, Shengyi Chen, Luchao Wang, Kaimin He, Sijie Yan, Yuanjun Xiong*<br>
-arXiv preprint, 17 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.11836)]
-
 **Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**<br>
 *Junha Hyung, Susung Hong, Sungwon Hwang, Jaeseong Lee, Jaegul Choo, Jin-Hwa Kim*<br>
 arXiv preprint, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.11672)] [[Project](https://junhahyung.github.io/erankgs.github.io/)] 
-
-**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**<br>
-*Alex Hanson, Allen Tu, Vasu Singla, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein*<br>
-arXiv preprint, 14 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.10219)]
 
 **Taming 3DGS: High-Quality Radiance Fields with Limited Resources**<br>
 *Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
@@ -582,6 +576,15 @@ arXiv preprint, 1 May 2024<br>
 <summary><b>Abstract</b></summary>
 Recently, 3D Gaussian Splatting, as a novel 3D representation, has garnered attention for its fast rendering speed and high rendering quality. However, this comes with high memory consumption, e.g., a well-trained Gaussian field may utilize three million Gaussian primitives and over 700 MB of memory. We credit this high memory footprint to the lack of consideration for the relationship between primitives. In this paper, we propose a memory-efficient Gaussian field named SUNDAE with spectral pruning and neural compensation. On one hand, we construct a graph on the set of Gaussian primitives to model their relationship and design a spectral down-sampling module to prune out primitives while preserving desired signals. On the other hand, to compensate for the quality loss of pruning Gaussians, we exploit a lightweight neural network head to mix splatted features, which effectively compensates for quality losses while capturing the relationship between primitives in its weights. We demonstrate the performance of SUNDAE with extensive results. For example, SUNDAE can achieve 26.80 PSNR at 145 FPS using 104 MB memory while the vanilla Gaussian splatting algorithm achieves 25.60 PSNR at 160 FPS using 523 MB memory, on the Mip-NeRF360 dataset. Codes are publicly available at this https URL.
 </details>
+
+[[arXiv](https://arxiv.org/abs/2405.00676)] [[Project](https://runyiyang.github.io/projects/SUNDAE/)] [[Code](https://github.com/RunyiYang/SUNDAE)]<br>
+
+
+**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**<br>
+*Alex Hanson, Allen Tu, Vasu Singla, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10219)]
+
 
 ## 3DGS with Ray Tracing
 
