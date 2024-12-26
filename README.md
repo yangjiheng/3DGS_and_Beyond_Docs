@@ -447,11 +447,6 @@ arXiv preprint, 16 Aug 2024<br>
 ECCV 2024, 10 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.06407)] [[Project](https://aaltoml.github.io/uncertainty-nerf-gs/)] [[Code](https://github.com/AaltoML/uncertainty-nerf-gs)]
 
-**3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt**<br>
-*Lukas Höllein, Aljaž Božič, Michael Zollhöfer, Matthias Nießner*<br>
-arXiv preprint, 19 Sep 2024<br>
-[[arXiv](https://arxiv.org/abs/2409.12892)] [[Project](https://lukashoel.github.io/3DGS-LM/)] [[Video](https://www.youtube.com/watch?v=tDiGuGMssg8)] [[Code](https://github.com/lukasHoel/3DGS-LM)]
-
 **Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy**<br>
 *Letian Huang, Jie Guo, Jialin Dan, Ruoyu Fu, Shujie Wang, Yuanqi Li, Yanwen Guo*<br>
 arXiv preprint, 19 Sep 2024<br>
@@ -502,11 +497,6 @@ arXiv preprint, 23 Oct 2024<br>
 arXiv preprint, 28 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.20686)] [[Code](https://github.com/esw0116/ODGS)]
 
-**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**<br>
-*Shengchao Zhao, Yundong Li*<br>
-arXiv preprint, 14 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.09156)]
-
 **Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**<br>
 *Han Qi, Tao Cai, Xiyue Han*<br>
 arXiv preprint, 12 Nov 2024<br>
@@ -552,7 +542,7 @@ arXiv preprint, 13 Nov 2024<br>
 6 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.04826)]
 
-**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**Mbr>
+**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**<br>
 *Yanzhe Lyu, Kai Cheng, Xin Kang, Xuejin Chen*<br>
 10 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.07494)]
@@ -660,6 +650,11 @@ arXiv preprint, 10 May 2024<br>
 *Weikai Lin, Yu Feng, Yuhao Zhu*<br>
 arXiv preprint, 29 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.00435)] [[Code](https://github.com/horizon-research/Fov-3DGS)]
+
+**3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt**<br>
+*Lukas Höllein, Aljaž Božič, Michael Zollhöfer, Matthias Nießner*<br>
+arXiv preprint, 19 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.12892)] [[Project](https://lukashoel.github.io/3DGS-LM/)] [[Video](https://www.youtube.com/watch?v=tDiGuGMssg8)] [[Code](https://github.com/lukasHoel/3DGS-LM)]
 
 **Low Latency Point Cloud Rendering with Learned Splatting**<br>
 *Yueyu Hu, Ran Gong, Qi Sun, Yao Wang*<br>
@@ -812,6 +807,11 @@ In this paper we present a novel method for efficient and effective 3D surface r
 </details>
 
 [[arXiv](https://arxiv.org/abs/2411.01853)]<br>
+
+**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**<br>
+*Shengchao Zhao, Yundong Li*<br>
+arXiv preprint, 14 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.09156)]
 
 **Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**<br>
 *Ziyu Zhang, Binbin Huang, Hanqing Jiang, Liyang Zhou, Xiaojun Xiang, Shunhan Shen*<br>
