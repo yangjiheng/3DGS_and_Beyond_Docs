@@ -366,7 +366,7 @@ arXiv preprint, 28 May 2024<br>
 **3D-HGS: 3D Half-Gaussian Splatting**<br>
 *Haolin Li, Jinyang Liu, Mario Sznaier, Octavia Camps*<br>
 arXiv preprint, 4 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.02518)]
+[[arXiv](https://arxiv.org/abs/2406.02720)]
 
 **Gaussian Splatting with Localized Points Management**<br>
 *Haosen Yang, Chenhao Zhang, Wenqing Wang, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu*<br>
