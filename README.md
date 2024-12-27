@@ -394,11 +394,6 @@ arXiv preprint, 21 Jun 2024<br>
 arXiv preprint, 28 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.20055)]
 
-**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**<br>
-*Jiaze Li, Zhengyu Wen, Luo Zhang, Jiangbei Hu, Fei Hou, Zhebin Zhang, Ying He*<br>
-arXiv preprint, 26 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.18199)]
-
 **Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**<br>
 *Zhentao Huang, Minglun Gong*<br>
 arXiv preprint, 13 Jul 2024<br>
@@ -794,6 +789,11 @@ arXiv preprint, 9 Jun 2024<br>
 *Adrian Xuan Wei Lim, Lynnette Hui Xian Ng, Nicholas Kyger, Tomo Michigami, Faraz Baghernezhad*<br>
 SIGGRAPH Poster 2024, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.11570)]
+
+**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**<br>
+*Jiaze Li, Zhengyu Wen, Luo Zhang, Jiangbei Hu, Fei Hou, Zhebin Zhang, Ying He*<br>
+arXiv preprint, 26 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18199)]
 
 **2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**<br>
 *Ruihan Yu, Tianyu Huang, Jingwang Ling, Feng Xu*<br>
