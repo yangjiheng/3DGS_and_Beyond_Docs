@@ -479,11 +479,6 @@ arXiv preprint, 7 Oct 2024<br>
 arXiv preprint, 7 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.05468)]
 
-**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**<br>
-*Ziwen Yuan, Tianyi Zhang, Matthew Johnson-Roberson, Weiming Zhi*<br>
-arXiv preprint, 7 Oct 2024<br>
-[[arXiv](https://arxiv.org/abs/2410.05044)] [[Project](https://ziweny11.github.io/photoreg/)] [[Video](https://www.youtube.com/watch?v=BmBtd8aFrV0&t=4s)]  [[Code](https://github.com/ziweny11/PhotoRegCodes)]
-
 **Variational Bayes Gaussian Splatting**<br>
 *Toon Van de Maele, Ozan Catal, Alexander Tschantz, Christopher L. Buckley, Tim Verbelen*<br>
 arXiv preprint, 4 Oct 2024<br>
@@ -2622,6 +2617,11 @@ arXiv preprint, 7 Oct 2024<br>
 *Yonghan Lee, Jaehoon Choi, Dongki Jung, Jaeseong Yun, Soohyun Ryu, Dinesh Manocha, Suyong Yeon*<br>
 arXiv preprint, 6 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.04646)]
+
+**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**<br>
+*Ziwen Yuan, Tianyi Zhang, Matthew Johnson-Roberson, Weiming Zhi*<br>
+arXiv preprint, 7 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.05044)] [[Project](https://ziweny11.github.io/photoreg/)] [[Video](https://www.youtube.com/watch?v=BmBtd8aFrV0&t=4s)]  [[Code](https://github.com/ziweny11/PhotoRegCodes)]
 
 **L-VITeX: Light-weight Visual Intuition for Terrain Exploration**<br>
 *Antar Mazumder, Zarin Anjum Madhiha*<br>
