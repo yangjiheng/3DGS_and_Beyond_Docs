@@ -549,11 +549,6 @@ arXiv preprint, 13 Nov 2024<br>
 10 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.07494)]
 
-**Faster and Better 3D Splatting via Group Training**<br>
-*Chengbo Wang, Guozheng Ma, Yifei Xue, Yizhen Lao*<br>
-10 Dec 2024<br>
-[[arXiv](https://arxiv.org/abs/2412.07608)]
-
 **GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**<br>
 *Qingyue Deng, Jijiang Li, Haibin Ling, Bingyao Huang*<br>
 16 Dec 2024<br>
@@ -692,6 +687,11 @@ arXiv preprint, 24 Oct 2024<br>
 *Chinmay Talegaonkar, Yash Belhe, Ravi Ramamoorthi, Nicholas Antipa*<br>
 4 Dec 2024<br>
 [[arXiv](https://arxiv.org/abs/2412.03378)]
+
+**Faster and Better 3D Splatting via Group Training**<br>
+*Chengbo Wang, Guozheng Ma, Yifei Xue, Yizhen Lao*<br>
+10 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.07608)]
 
 **Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**<br>
 *Tao Lu, Ankit Dhiman, R Srinath, Emre Arslan, Angela Xing, Yuanbo Xiangli, R Venkatesh Babu, Srinath Sridhar*<br>
