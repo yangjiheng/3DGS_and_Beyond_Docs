@@ -382,7 +382,7 @@ arXiv preprint, 6 Jun 2024<br>
 **Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**<br>
 *Junha Hyung, Susung Hong, Sungwon Hwang, Jaeseong Lee, Jaegul Choo, Jin-Hwa Kim*<br>
 arXiv preprint, 17 Jun 2024<br>
-[[arXiv](https://arxiv.org/abs/2406.11672)] [[Project](https://junhahyung.github.io/erankgs.github.io/)] 
+[[arXiv](https://arxiv.org/abs/2406.11672)] [[Project](https://junhahyung.github.io/erankgs.github.io/)]
 
 **Taming 3DGS: High-Quality Radiance Fields with Limited Resources**<br>
 *Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre*<br>
@@ -497,12 +497,12 @@ arXiv preprint, 12 Nov 2024<br>
 **SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**<br>
 *Yutong Chen, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, Siyu Tang*<br>
 arXiv preprint, 10 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.06390)] [[Project](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)] 
+[[arXiv](https://arxiv.org/abs/2411.06390)] [[Project](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)]
 
 **BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**<br>
 *David Svitov, Pietro Morerio, Lourdes Agapito, Alessio Del Bue*<br>
 arXiv preprint, 13 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.08508)]
+[[arXiv](https://arxiv.org/abs/2411.08508)] [[Project](https://david-svitov.github.io/BBSplat_project_page/)]  [[Video](https://youtu.be/uRM7WFo5vVg)] [[Code](https://github.com/david-svitov/BBSplat)]
 
 **Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification**<br>
 *Guangchi Fang, Bing Wang*<br>
@@ -512,7 +512,7 @@ arXiv preprint, 13 Nov 2024<br>
 **Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**<br>
 *Haodong Chen, Runnan Chen, Qiang Qu, Zhaoqing Wang, Tongliang Liu, Xiaoming Chen, Yuk Ying Chung*<br>
 19 Nov 2024<br>
-[[arXiv](https://arxiv.org/abs/2411.12440)]
+[[arXiv](https://arxiv.org/abs/2411.12440)] [[Project](https://hche8927.github.io/3DLS/)]
 
 **Textured Gaussians for Enhanced 3D Scene Appearance Modeling**<br>
 *Brian Chao, Hung-Yu Tseng, Lorenzo Porzi, Chen Gao, Tuotuo Li, Qinbo Li, Ayush Saraf, Jia-Bin Huang, Johannes Kopf, Gordon Wetzstein, Changil Kim*<br>
@@ -3782,7 +3782,7 @@ CVPR 2024, 4 Dec 2023<br>
 Dense simultaneous localization and mapping (SLAM) is crucial for robotics and augmented reality applications. However, current methods are often hampered by the non-volumetric or implicit way they represent a scene. This work introduces SplaTAM, an approach that, for the first time, leverages explicit volumetric representations, i.e., 3D Gaussians, to enable high-fidelity reconstruction from a single unposed RGB-D camera, surpassing the capabilities of existing methods. SplaTAM employs a simple online tracking and mapping system tailored to the underlying Gaussian representation. It utilizes a silhouette mask to elegantly capture the presence of scene density. This combination enables several benefits over prior representations, including fast rendering and dense optimization, quickly determining if areas have been previously mapped, and structured map expansion by adding more Gaussians. Extensive experiments show that SplaTAM achieves up to 2x superior performance in camera pose estimation, map construction, and novel-view synthesis over existing methods, paving the way for more immersive high-fidelity SLAM applications.
 </details>
 
-[[arXiv](https://arxiv.org/abs/2312.02126)] [[Project](https://spla-tam.github.io/)] [[Code])(https://github.com/spla-tam/SplaTAM)] [[Video](https://youtu.be/jWLI-OFp3qU)]<br>
+[[arXiv](https://arxiv.org/abs/2312.02126)] [[Project](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)] [[Video](https://youtu.be/jWLI-OFp3qU)]<br>
 
 
 **Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting**<br>
